@@ -9,7 +9,6 @@
     "start": "next start"
   },
   "dependencies": {
-    "@doveconviene/next-format-ui-lib": "1.0.80",
     "@fingerprintjs/fingerprintjs": "^4.2.1",
     "@tanstack/react-virtual": "^3.0.4",
     "@turf/distance": "^6.5.0",

@@ -1,5 +1,5 @@
 import React, { memo, useMemo } from 'react'
-import { PriceBlock } from '@doveconviene/next-format-ui-lib'
+// import { PriceBlock } from '@doveconviene/next-format-ui-lib'
 import { type PriceTagProps } from '~/components/flyer/product/price-tag/typings'
 import { getFontInfoOnPrice } from '~/hooks/use-font-info'
 import { getTemplate } from '~/hooks/use-template'
@@ -190,7 +190,8 @@ const PriceTagComponent = ({ sectionIndex, productIndex, productBundleIndex, pri
     },
   }
 
-  return <PriceBlock type={typePrice as string} data={dataComp} />
+  return <div>{'ciao'}</div>
+  // <PriceBlock type={typePrice as string} data={dataComp} />
 }
 
 export const PriceTag = memo(PriceTagComponent)

@@ -7,7 +7,7 @@ import useTemplateComponent from '~/hooks/use-template-component'
 import { useProductWithChildrens } from '~/hooks/use-product'
 import { usePrice } from '~/hooks/use-price'
 import { getFontInfoOnPrice } from '~/hooks/use-font-info'
-import { PriceBlock } from '@doveconviene/next-format-ui-lib'
+// import { PriceBlock } from '@doveconviene/next-format-ui-lib'
 import { Badge } from '~/components/badge/Badge'
 import { useSchemaStore } from '~/state/schema'
 import { RefsManager } from '~/utilities/refs-manager'
@@ -16,7 +16,7 @@ import { RefKeys, RefTypes } from '~/utilities/refs-manager/enum'
 /**
  * Using transform scale is problematic. This is a workarround to make the height of the PB work as expected.
  */
-function useComputePbDynamicHeight (initialHeight: number) {
+function useComputePbDynamicHeight(initialHeight: number) {
   const priceBlock = RefsManager.getRef<HTMLDivElement>(RefKeys.FLYOUT_PRICE_BLOCK)?.ref
   const [pbHeight, setPbHeight] = useState<number>(initialHeight)
 
@@ -94,16 +94,25 @@ const PriceTag: React.FC<PriceTagProps> = ({ price, className, priceBlockTransfo
 
   const fontInfoDiscount = getFontInfoOnPrice('discount', undefined, template, templateComponentPrice)
   const fontInfoDiscounted = getFontInfoOnPrice('discounted', undefined, template, templateComponentPrice)
-  const fontInfoDiscountedCurrency = getFontInfoOnPrice('discountedCurrency', undefined, template, templateComponentPrice)
+  const fontInfoDiscountedCurrency = getFontInfoOnPrice(
+    'discountedCurrency',
+    undefined,
+    template,
+    templateComponentPrice
+  )
   const fontInfoPrice = getFontInfoOnPrice('price', undefined, template, templateComponentPrice)
   const fontInfoPriceCurrency = getFontInfoOnPrice('priceCurrency', undefined, template, templateComponentPrice)
   const fontInfoUnitType = getFontInfoOnPrice('unitType', undefined, template, templateComponentPrice)
-  const typePrice = price?.formatPrice ?? templateComponentPrice?.priceInfo?.formatPrice ?? template?.productInfo?.formatPrice
+  const typePrice =
+    price?.formatPrice ?? templateComponentPrice?.priceInfo?.formatPrice ?? template?.productInfo?.formatPrice
 
   const scale = useMemo(() => {
-    const priceTagZoomFlyoutDefault = typePrice && mapFormatTypeScale[typePrice] ? mapFormatTypeScale[typePrice] : mapFormatTypeScale.default // scale
+    const priceTagZoomFlyoutDefault =
+      typePrice && mapFormatTypeScale[typePrice] ? mapFormatTypeScale[typePrice] : mapFormatTypeScale.default // scale
     const priceTagZoomFlyoutFromJson =
-      product?.price?.priceTagZoomFlyout ?? templateComponentPrice?.priceInfo?.priceTagZoomFlyout ?? template?.priceInfo?.priceTagZoomFlyout
+      product?.price?.priceTagZoomFlyout ??
+      templateComponentPrice?.priceInfo?.priceTagZoomFlyout ??
+      template?.priceInfo?.priceTagZoomFlyout
 
     return priceTagZoomFlyoutFromJson ? priceTagZoomFlyoutFromJson : priceTagZoomFlyoutDefault
   }, [typePrice, templateComponentPrice, product, template])
@@ -159,14 +168,26 @@ const PriceTag: React.FC<PriceTagProps> = ({ price, className, priceBlockTransfo
                 product?.price?.priceTagBackgroundColor ??
                 templateComponentPrice?.cssVars?.priceTagBackgroundColor ??
                 template?.cssVars?.priceTagBackgroundColor,
-              width: product?.price?.priceTagWidth ?? templateComponentPrice?.priceInfo?.priceTagWidth ?? template?.priceInfo?.priceTagWidth,
-              height: product?.price?.priceTagHeight ?? templateComponentPrice?.priceInfo?.priceTagHeight ?? template?.priceInfo?.priceTagHeight,
-              centerPriceVertically: templateComponentPrice?.priceInfo?.centerPriceVertically ?? template?.priceInfo?.centerPriceVertically,
+              width:
+                product?.price?.priceTagWidth ??
+                templateComponentPrice?.priceInfo?.priceTagWidth ??
+                template?.priceInfo?.priceTagWidth,
+              height:
+                product?.price?.priceTagHeight ??
+                templateComponentPrice?.priceInfo?.priceTagHeight ??
+                template?.priceInfo?.priceTagHeight,
+              centerPriceVertically:
+                templateComponentPrice?.priceInfo?.centerPriceVertically ?? template?.priceInfo?.centerPriceVertically,
               transformCss: priceTagZoomFlyout,
               transformOrigin: priceBlockTransformOrigin,
-              color: product?.price?.priceTagTextColor ?? templateComponentPrice?.cssVars?.priceTagTextColor ?? template?.cssVars?.priceTagTextColor,
+              color:
+                product?.price?.priceTagTextColor ??
+                templateComponentPrice?.cssVars?.priceTagTextColor ??
+                template?.cssVars?.priceTagTextColor,
               borderColor:
-                product?.price?.priceTagBorderColor ?? templateComponentPrice?.cssVars?.priceTagBorderColor ?? template?.cssVars?.priceTagBorderColor,
+                product?.price?.priceTagBorderColor ??
+                templateComponentPrice?.cssVars?.priceTagBorderColor ??
+                template?.cssVars?.priceTagBorderColor,
             },
             price: {
               backgroundColor:
@@ -174,7 +195,9 @@ const PriceTag: React.FC<PriceTagProps> = ({ price, className, priceBlockTransfo
                 templateComponentPrice?.cssVars?.priceTagTopBackgroundColor ??
                 template?.cssVars?.priceTagTopBackgroundColor,
               color:
-                product?.price?.priceTagTopTextColor ?? templateComponentPrice?.cssVars?.priceTagTopTextColor ?? template?.cssVars?.priceTagTopTextColor,
+                product?.price?.priceTagTopTextColor ??
+                templateComponentPrice?.cssVars?.priceTagTopTextColor ??
+                template?.cssVars?.priceTagTopTextColor,
               strokeColor:
                 product?.price?.priceTagTopBorderColor ??
                 templateComponentPrice?.cssVars?.priceTagTopBorderColor ??
@@ -193,7 +216,9 @@ const PriceTag: React.FC<PriceTagProps> = ({ price, className, priceBlockTransfo
             },
             discounted: {
               color:
-                product?.price?.discountedPriceColor ?? templateComponentPrice?.cssVars?.discountedPriceColor ?? template?.cssVars?.discountedPriceColor,
+                product?.price?.discountedPriceColor ??
+                templateComponentPrice?.cssVars?.discountedPriceColor ??
+                template?.cssVars?.discountedPriceColor,
               shadowColor:
                 product?.price?.discountedPriceShadowColor ??
                 templateComponentPrice?.cssVars?.discountedPriceShadowColor ??
@@ -209,7 +234,10 @@ const PriceTag: React.FC<PriceTagProps> = ({ price, className, priceBlockTransfo
               trasformCss: templateComponentPrice?.priceInfo?.priceTrasform ?? template?.priceInfo?.priceTrasform,
             },
             unitType: {
-              color: product?.price?.unitTypeTextColor ?? templateComponentPrice?.cssVars?.unitTypeTextColor ?? template?.cssVars?.unitTypeTextColor,
+              color:
+                product?.price?.unitTypeTextColor ??
+                templateComponentPrice?.cssVars?.unitTypeTextColor ??
+                template?.cssVars?.unitTypeTextColor,
               backgroundColor:
                 product?.price?.unitTypeBackgroundColor ??
                 templateComponentPrice?.cssVars?.unitTypeBackgroundColor ??
@@ -236,17 +264,34 @@ const PriceTag: React.FC<PriceTagProps> = ({ price, className, priceBlockTransfo
                 template?.cssVars?.discountedCurrencyBackgroundColor,
             },
           },
-        }
-      }
+        },
+      },
     }
   }, [
-    activeProductIndex, activeSectionIndex, discounted, fontInfoDiscount, fontInfoDiscounted, fontInfoDiscountedCurrency, fontInfoPiceBlock, fontInfoPrice, fontInfoPriceCurrency, fontInfoUnitType, full, priceBlockTransformOrigin, product, template, templateComponentPrice, separators, pbHeight, scale, typePrice,
+    activeProductIndex,
+    activeSectionIndex,
+    discounted,
+    fontInfoDiscount,
+    fontInfoDiscounted,
+    fontInfoDiscountedCurrency,
+    fontInfoPiceBlock,
+    fontInfoPrice,
+    fontInfoPriceCurrency,
+    fontInfoUnitType,
+    full,
+    priceBlockTransformOrigin,
+    product,
+    template,
+    templateComponentPrice,
+    separators,
+    pbHeight,
+    scale,
+    typePrice,
   ])
-
 
   return (
     <div ref={ref} className={className} style={computed.wrapperStyle}>
-      <PriceBlock {...computed.pbProps} />
+      {/*<PriceBlock {...computed.pbProps} />*/}
     </div>
   )
 }
