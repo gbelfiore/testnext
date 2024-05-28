@@ -1,0 +1,2562 @@
+{
+  "value": {
+    "_id": "6581a2380761f88d46e85474",
+    "dateFrom": "2024-01-04T00:00:00+00:00",
+    "dateTo": "2024-02-07T00:00:00+00:00",
+    "colophon": "<br><b>Dal 4 Gennaio al 7 Febbraio 2024</b><br/><br/>",
+    "coverImage": "assets/covernorautogennaio.jpg?w=768&h=1067&ar=0.7197750702905342",
+    "backcoverImage": "assets/pix2.png?w=768&h=1&ar=768",
+    "sections": [
+      {
+        "id": "1702995695951",
+        "name": "",
+        "products": [
+          {
+            "name": "Banner",
+            "type": "image",
+            "tracking": true,
+            "props": {
+              "src": "assets/1bannervolantinonorautogennaio1.jpg?w=768&h=736&ar=1.0434782608695652",
+              "modifier": "wide",
+              "ctaUrl": "https://www.norauto.it/t/f/47597-pneumatici-gomme/saison-c=420stagioni--estate.html?cod=LOCSHO01339IT"
+            },
+            "timing": {
+              "create": "19/12/2023, 15:22:16",
+              "update": "19/12/2023, 15:22:16"
+            },
+            "modifier": "wide",
+            "position": 0
+          },
+          {
+            "name": "Banner",
+            "type": "image",
+            "tracking": true,
+            "props": {
+              "src": "assets/2leonardnuovobannernorauto2.jpg?w=2256&h=1035&ar=2.1797101449275362",
+              "modifier": "wide",
+              "ctaUrl": "https://www.norauto.it/t/pneumatico/leonard.html?cod=LOCSHO01339IT"
+            },
+            "timing": {
+              "create": "19/12/2023, 15:22:41",
+              "update": "19/12/2023, 15:22:41"
+            },
+            "modifier": "wide",
+            "position": 1
+          },
+          {
+            "name": "Space",
+            "type": "image",
+            "tracking": true,
+            "props": {
+              "src": "assets/Senza-titolo-100_bianco.jpg?w=768&h=50&ar=15.36",
+              "modifier": "wide"
+            },
+            "timing": {
+              "create": "19/12/2023, 15:23:37",
+              "update": "19/12/2023, 15:23:37"
+            },
+            "modifier": "wide",
+            "position": 2
+          },
+          {
+            "name": "Banner",
+            "type": "image",
+            "tracking": true,
+            "props": {
+              "src": "assets/3bannnewpneuinv4stag.png?w=768&h=291&ar=2.6391752577319587",
+              "modifier": "wide",
+              "ctaUrl": "https://www.norauto.it/e/pneumatici-invernali.html?cod=LOCSHO01339IT"
+            },
+            "timing": {
+              "create": "19/12/2023, 15:23:10",
+              "update": "19/12/2023, 15:29:58"
+            },
+            "modifier": "wide",
+            "position": 3
+          },
+          {
+            "name": "Banner",
+            "type": "image",
+            "tracking": true,
+            "props": {
+              "src": "assets/banncatenedaneveeenewom.jpg?w=768&h=290&ar=2.6482758620689655",
+              "modifier": "wide",
+              "ctaUrl": "https://www.norauto.it/c/f/47618-catene-da-neve/ecn_type_de_pieceit-c=catene20da20neve--catene20da20neve20composite20frontali.html?cod=LOCSHO01339IT"
+            },
+            "timing": {
+              "create": "19/12/2023, 15:24:25",
+              "update": "19/12/2023, 15:29:27"
+            },
+            "modifier": "wide",
+            "position": 4
+          },
+          {
+            "name": "Banner",
+            "type": "image",
+            "tracking": true,
+            "props": {
+              "src": "assets/bannercalzedasnownor.jpg?w=768&h=291&ar=2.6391752577319587",
+              "modifier": "wide",
+              "ctaUrl": "https://www.norauto.it/c/f/47618-catene-da-neve/ecn_type_de_pieceit-c=calze20da20neve.html?cod=LOCSHO01339IT"
+            },
+            "timing": {
+              "create": "19/12/2023, 15:31:41",
+              "update": "19/12/2023, 15:31:41"
+            },
+            "modifier": "wide",
+            "position": 5
+          },
+          {
+            "name": "Banner",
+            "type": "image",
+            "tracking": true,
+            "props": {
+              "src": "assets/Schermata-2023-12-21-alle-11.04.23.jpg?w=768&h=353&ar=2.1756373937677056",
+              "modifier": "wide"
+            },
+            "timing": {
+              "create": "19/12/2023, 15:33:15",
+              "update": "21/12/2023, 11:05:36"
+            },
+            "modifier": "wide",
+            "position": 6
+          }
+        ],
+        "timing": {
+          "create": "19/12/2023, 15:21:37",
+          "update": "19/12/2023, 15:21:37"
+        }
+      },
+      {
+        "name": "Trasporto",
+        "products": [
+          {
+            "brandImage": "assets/fabbriportauto.png?w=208&h=60&ar=3.466666666666667",
+            "name": "Box da tetto Nova",
+            "description": "- 310 litri<br/>- Nero lucido<br/>- 123x65x38cm<br/><br/>cod. 2210765",
+            "price": {
+              "full": "139,95",
+              "discount": "-30%",
+              "discounted": "97,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagWidth": 100
+            },
+            "productImage": "assets/1-5404.png?w=300&h=121&ar=2.479338842975207",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/box-da-tetto-fabbri-nova-310-l-nero-2210765.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13242,
+            "position": 7,
+            "modifier": "wide",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 15:39:58",
+              "update": "19/12/2023, 15:47:48"
+            },
+            "id": "658e9a3d-5250-4017-9afb-1583ac1f4908"
+          },
+          {
+            "brandImage": "assets/menabo.png?w=236&h=60&ar=3.933333333333333",
+            "name": "Portasci magnetico Himalaya",
+            "description": "- Trasporta 2 paia di sci e 2 paia di racchette<br/><br/>cod. 98246",
+            "price": {
+              "full": "89,95",
+              "discount": "-22%",
+              "discounted": "69,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagWidth": 85
+            },
+            "productImage": "assets/2-828.png?w=300&h=196&ar=1.530612244897959",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/portasci-magnetico-menabo-himalaya-98246.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13104,
+            "position": 8,
+            "modifier": "cell",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 15:40:15",
+              "update": "19/12/2023, 15:44:17"
+            },
+            "id": "658e9a3e-a54c-425e-ad63-42b1ac1f3abc"
+          },
+          {
+            "brandImage": "assets/menabo.png?w=236&h=60&ar=3.933333333333333",
+            "name": "Portasci per barre da tetto Iceberg",
+            "description": "- Trasporta 4 paia di sci o 2 snowboard<br/><br/>cod. 2537513",
+            "price": {
+              "full": "59,95",
+              "discount": "-40%",
+              "discounted": "35,97",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "productImage": "assets/3-660.png?w=300&h=165&ar=1.8181818181818181",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/portasci-per-barre-da-tetto-menabo-iceberg-2537513.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13242,
+            "position": 9,
+            "id": "658e9a3e-70fc-49e8-b921-47b2ac1f3abc"
+          },
+          {
+            "name": "Banner",
+            "type": "image",
+            "tracking": true,
+            "props": {
+              "src": "assets/7banneristallazioneboxtetto7.jpg?w=768&h=251&ar=3.0597609561752988",
+              "modifier": "wide",
+              "ctaUrl": "https://www.norauto.it/p/montaggio-box-da-tetto-F8530.html?cod=LOCSHO01339IT"
+            },
+            "timing": {
+              "create": "19/12/2023, 15:47:27",
+              "update": "19/12/2023, 15:47:27"
+            },
+            "modifier": "wide",
+            "position": 10
+          },
+          {
+            "brandImage": "assets/wayscral.png?w=190&h=30&ar=6.333333333333333",
+            "name": "Bici elettrica Everyway E300",
+            "description": "- Cerchi da 28”<br/><br/>cod. 71597",
+            "price": {
+              "full": "1649,95",
+              "discount": "-42%",
+              "discounted": "949,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagWidth": 105
+            },
+            "productImage": "assets/1-5405.png?w=300&h=185&ar=1.6216216216216217",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/bici-elettrica-da-citta-wayscral-everyway-e300-28--71597.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13126,
+            "position": 11,
+            "modifier": "wide",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 15:13:04",
+              "update": "19/12/2023, 15:48:05"
+            },
+            "id": "658e9a3f-fe6c-4802-9def-2211ac1f577a"
+          },
+          {
+            "brandImage": "assets/wayscral.png?w=190&h=30&ar=6.333333333333333",
+            "name": "Borsa da telaio",
+            "description": "cod. 96735",
+            "price": {
+              "full": "9,95",
+              "discount": "-70%",
+              "discounted": "2,99",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagWidth": 80
+            },
+            "productImage": "assets/2-829.png?w=300&h=174&ar=1.7241379310344827",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/borsa-da-telaio-impermeabile-wayscral-96735.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13143,
+            "position": 12,
+            "modifier": "cell",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 15:14:20",
+              "update": "19/12/2023, 15:14:20"
+            },
+            "id": "658e9a3f-8cc4-4d78-bf52-124cac1f4908"
+          },
+          {
+            "brandImage": "assets/fabbriportauto.png?w=208&h=60&ar=3.466666666666667",
+            "name": "Portabici da tetto Alu 3000",
+            "description": "- Trasporta 1 bici<br/><br/>cod. 2274048",
+            "price": {
+              "full": "59,95",
+              "discount": "-33%",
+              "discounted": "39,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "productImage": "assets/3-661.png?w=275&h=300&ar=0.9166666666666666",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/portabici-da-tetto-alu-3000-fabbri-2274048.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13247,
+            "position": 13,
+            "id": "658e9a3f-497c-43f8-9168-14e5ac1f4908"
+          },
+          {
+            "brandImage": "assets/norautologo.png?w=202&h=56&ar=3.607142857142857",
+            "name": "Portabici da gancio traino Deck 200-2",
+            "description": "- Trasporta 2 bici<br/>- Ripiegabile<br/>- Basculante<br/><br/>cod. 2382758",
+            "price": {
+              "full": "269,95",
+              "discount": "-20%",
+              "discounted": "214,97",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagWidth": 100
+            },
+            "productImage": "assets/4-604.png?w=300&h=277&ar=1.0830324909747293",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/portabici-gancio-traino-norauto-deck-200-2-per-2-bici-2382758.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13247,
+            "position": 14,
+            "modifier": "wide",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 15:14:41",
+              "update": "19/12/2023, 15:34:08"
+            },
+            "id": "658e9a40-1f1c-487d-ad13-0c79ac1f5aa6"
+          }
+        ],
+        "id": "trasporto_1702994501735"
+      },
+      {
+        "name": "Suono e multimedia",
+        "footer": {
+          "type": "image",
+          "props": {
+            "src": "assets/8banneristallazioneautoradio8.png?w=768&h=251&ar=3.0597609561752988"
+          }
+        },
+        "products": [
+          {
+            "name": "Autoradio DX AR870",
+            "description": "- Bluetooth<br/>- Dab+<br/><br/>cod. 2201428",
+            "price": {
+              "full": "149,95",
+              "discount": "-40%",
+              "discounted": "89,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagWidth": 92
+            },
+            "productImage": "assets/1-5406.png?w=300&h=142&ar=2.112676056338028",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/autoradio-dx-ar870-bluetooth-dab-antenna-non-inclusa--2201428.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13242,
+            "position": 15,
+            "modifier": "wide",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 15:37:11",
+              "update": "20/12/2023, 11:21:03"
+            },
+            "id": "658e9a40-49a8-43b8-9c71-21efac1f577a"
+          },
+          {
+            "brandImage": "assets/norautologo.png?w=202&h=56&ar=3.607142857142857",
+            "name": "Ricevitore bluetooth per presa accendisigari",
+            "description": "- 2 prese USB<br/><br/>cod. 2382380",
+            "price": {
+              "full": "29,95",
+              "discount": "-50%",
+              "discounted": "14,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagWidth": null
+            },
+            "productImage": "assets/2-830.png?w=186&h=300&ar=0.62",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/ricevitore-norauto-bluetooth-e-caricatore-da-presa-accendisigari-2382380.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13242,
+            "position": 16,
+            "modifier": "cell",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 15:37:41",
+              "update": "19/12/2023, 15:38:35"
+            },
+            "id": "658e9a40-1704-4d21-97a2-0c6aac1f5aa6"
+          },
+          {
+            "brandImage": "assets/norautologo.png?w=202&h=56&ar=3.607142857142857",
+            "name": "Cavo USB-C",
+            "description": "- Lunghezza 1 metro<br/><br/>cod. 48054",
+            "price": {
+              "full": "9,95",
+              "discount": "-70%",
+              "discounted": "2,99",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "discountedPriceStrokeWidth": ""
+            },
+            "productImage": "assets/3-662.png?w=300&h=247&ar=1.214574898785425",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/cavo-nero-usb-usb-type-c-2.0-norauto-1-m-48054.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 14360,
+            "position": 17,
+            "modifier": "cell",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 15:34:33",
+              "update": "20/12/2023, 11:21:09"
+            },
+            "id": "658e9a41-16ec-42b0-a6c7-24d4ac1f577a"
+          }
+        ],
+        "id": "suono_e_multimedia_1702994501735"
+      },
+      {
+        "name": "Accessori e Comfort",
+        "footer": {
+          "type": "image",
+          "props": {
+            "src": "assets/9bannerantipioggia9.jpg?w=768&h=251&ar=3.0597609561752988",
+            "ctaUrl": "https://www.norauto.it/c/50012-trattamento-antipioggia.html?cod=LOCSHO01339IT"
+          }
+        },
+        "products": [
+          {
+            "brandImage": "assets/norautologo.png?w=202&h=56&ar=3.607142857142857",
+            "name": "Kit da viaggio 3 In 1",
+            "description": "cod. 98760",
+            "price": {
+              "full": "14,95",
+              "discount": "-46%",
+              "discounted": "7,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "productImage": "assets/1-5407.png?w=300&h=185&ar=1.6216216216216217",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/kit-da-viaggio-norauto-3-in-1-98760.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13242,
+            "position": 18,
+            "id": "658e9a41-087c-4cd3-8b80-24d4ac1f577a"
+          },
+          {
+            "brandImage": "assets/norautologo.png?w=202&h=56&ar=3.607142857142857",
+            "name": "Cuscino lombare",
+            "description": "cod. 2541468",
+            "price": {
+              "full": "19,95",
+              "discount": "-50%",
+              "discounted": "9,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "productImage": "assets/2-831.png?w=300&h=215&ar=1.3953488372093024",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/cuscino-lombare-in-memory-norauto-grigio-2541468.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13242,
+            "position": 19,
+            "id": "658e9a41-0148-4364-ba08-1537ac1f4908"
+          },
+          {
+            "brandImage": "assets/norautologo.png?w=202&h=56&ar=3.607142857142857",
+            "name": "Cuscino girevole",
+            "description": "cod. 2402309",
+            "price": {
+              "full": "18,95",
+              "discount": "-21%",
+              "discounted": "14,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "productImage": "assets/3-663.png?w=300&h=186&ar=1.6129032258064515",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/cuscino-girevole-in-memory-foam-norauto-grigio-2402309.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 15161,
+            "position": 20,
+            "modifier": "cell",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 15:49:57",
+              "update": "19/12/2023, 15:50:03"
+            },
+            "id": "658e9a42-23b8-48b4-83bc-0ae8ac1f5aa6"
+          },
+          {
+            "brandImage": "assets/norautologo.png?w=202&h=56&ar=3.607142857142857",
+            "name": "Cuscino sedile",
+            "description": "cod. 2270208",
+            "price": {
+              "full": "22,95",
+              "discount": "-30%",
+              "discounted": "15,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "productImage": "assets/4-605.png?w=300&h=246&ar=1.2195121951219512",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/cuscino-sedile-in-memory-foam-con-gel-refrigerante-ed-effetto-massaggiante-norauto-2270208.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 15127,
+            "position": 21,
+            "id": "658e9a42-ff14-48ea-af17-0ad0ac1f5aa6"
+          },
+          {
+            "brandImage": "assets/norautologo.png?w=202&h=56&ar=3.607142857142857",
+            "name": "Poggiapiedi sospeso",
+            "description": "cod. 2291826",
+            "price": {
+              "full": "8,95",
+              "discount": "-33%",
+              "discounted": "5,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "productImage": "assets/5-537.png?w=300&h=241&ar=1.2448132780082988",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/poggiapiedi-sospeso-per-auto-norauto-2291826.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13242,
+            "position": 22,
+            "id": "658e9a43-2500-4d14-8377-2211ac1f577a"
+          },
+          {
+            "brandImage": "assets/norautologo.png?w=202&h=56&ar=3.607142857142857",
+            "name": "Coprivolante silicone",
+            "description": "cod. 2541459",
+            "price": {
+              "full": "8,95",
+              "discount": "-33%",
+              "discounted": "5,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "productImage": "assets/6-490.png?w=289&h=300&ar=0.9633333333333334",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/coprivolante-in-silicone-norauto-nero-2541459.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13242,
+            "position": 23,
+            "id": "658e9a43-1e5c-4488-a7f0-2356ac1f577a"
+          },
+          {
+            "brandImage": "assets/4r.png?w=115&h=60&ar=1.9166666666666667",
+            "name": "Adesivi 4R",
+            "description": "",
+            "price": {
+              "full": "1,99",
+              "discount": "-20%",
+              "discounted": "1,59",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "productImage": "assets/7-436.png?w=300&h=250&ar=1.2",
+            "available": false,
+            "highlights": [],
+            "selectedBadge": "a_partire_da_label",
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/c/f/47984-stickers-adesivi-per-auto/marque_produit-c=4r.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 15454,
+            "position": 24,
+            "id": "658e9a43-9400-4641-81d4-2328ac1f577a"
+          },
+          {
+            "brandImage": "assets/rapidlux.png?w=237&h=53&ar=4.471698113207547",
+            "name": "Fodere su misura",
+            "description": "- Disponibili per un’ampia gamma di veicoli",
+            "price": {
+              "full": "99,95",
+              "discount": "-30%",
+              "discounted": "69,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "discountPriceTextColor": "rgba(226, 12, 20, 1)",
+              "discountPriceBackgroundColor": ""
+            },
+            "productImage": "assets/8-398.png?w=300&h=197&ar=1.5228426395939085",
+            "available": false,
+            "highlights": [],
+            "selectedBadge": "a_partire_da_su_tutta_la_gamma_label",
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/c/f/47969-fodere-su-misura/marque_produit-c=rapid20lux.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13242,
+            "position": 25,
+            "modifier": "cell",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 16:01:26",
+              "update": "19/12/2023, 16:01:32"
+            },
+            "id": "658e9a44-dc3c-4a39-a910-43c1ac1f3abc"
+          },
+          {
+            "brandImage": "assets/norautologo.png?w=202&h=56&ar=3.607142857142857",
+            "name": "Protezione parabrezza 2 in 1 inverno / estate",
+            "description": "cod. 2270886",
+            "price": {
+              "full": "8,95",
+              "discount": "-40%",
+              "discounted": "5,37",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagWidth": 80
+            },
+            "productImage": "assets/1-5408.png?w=271&h=300&ar=0.9033333333333333",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/parasole-norauto-2-in-1-per-estate-inverno--2270886.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13242,
+            "position": 26,
+            "modifier": "cell",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "20/12/2023, 11:22:28",
+              "update": "20/12/2023, 11:23:02"
+            },
+            "id": "658e9a44-78f4-4f69-92fe-4452ac1f3abc"
+          },
+          {
+            "brandImage": "assets/norautologo.png?w=202&h=56&ar=3.607142857142857",
+            "name": "Coppia di coperture antigelo per specchietti",
+            "description": "cod. 2279850",
+            "price": {
+              "full": "4,99",
+              "discount": "-60%",
+              "discounted": "1,99",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagWidth": 80
+            },
+            "productImage": "assets/2-832.png?w=300&h=250&ar=1.2",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/2-coperture-specchio-antigelo-laterali-2279850.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13491,
+            "position": 27,
+            "modifier": "cell",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "20/12/2023, 11:23:15",
+              "update": "20/12/2023, 11:23:15"
+            },
+            "id": "658e9a44-3d80-44cd-be23-15a1ac1f4908"
+          },
+          {
+            "brandImage": "assets/norautologo.png?w=202&h=56&ar=3.607142857142857",
+            "name": "Deumidificatore auto",
+            "description": "- Assorbe l’umidità e previene l’appannamento del parabrezza<br/><br/>cod. 2390942",
+            "price": {
+              "full": "9,95",
+              "discount": "-50%",
+              "discounted": "4,98",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "productImage": "assets/3-664.png?w=300&h=204&ar=1.4705882352941178",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/deumidificatore-auto-limpro-400g-2390942.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 14066,
+            "position": 28,
+            "id": "658e9a45-3e00-4872-b24e-43c1ac1f3abc"
+          },
+          {
+            "brandImage": "assets/norautologo.png?w=202&h=56&ar=3.607142857142857",
+            "name": "Raschiaghiaccio top",
+            "description": "- Disponibile con grip blu o nero<br/><br/>cod. 84607 / 84608",
+            "price": {
+              "full": "2,99",
+              "discount": "-35%",
+              "discounted": "1,94",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "productImage": "assets/4-606.png?w=271&h=300&ar=0.9033333333333333",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/raschietto-ghiaccio-auto-norauto-nordic-84608.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13242,
+            "position": 29,
+            "id": "658e9a45-c884-4da4-b480-2206ac1f577a"
+          }
+        ],
+        "id": "accessori_e_comfort_1702994501735"
+      },
+      {
+        "name": "Veicoli elettrici",
+        "products": [
+          {
+            "brandImage": "assets/norautologo.png?w=202&h=56&ar=3.607142857142857",
+            "name": "Cavo ricarica auto elettrica",
+            "description": "-Da tipo 2 a tipo 2-5m/22 kw<br/><br/>cod. 2291772",
+            "price": {
+              "full": "219,95",
+              "discount": "-16%",
+              "discounted": "189,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagWidth": 100
+            },
+            "productImage": "assets/1-5410.png?w=300&h=275&ar=1.0909090909090908",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/cavo-ricarica-auto-elettrica-norauto-e-da-tipo-2-a-tipo-2-5-m-22-kw-trifase-32-a--2291772.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13242,
+            "position": 30,
+            "modifier": "cell",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 15:52:36",
+              "update": "19/12/2023, 15:52:36"
+            },
+            "id": "658e9a46-32f0-4351-8f3d-0b84ac1f5aa6"
+          },
+          {
+            "brandImage": "assets/wallbox.png?w=213&h=60&ar=3.55",
+            "name": "Wallbox Pulsar Plus T2",
+            "description": "- 7,4kW monofase 16A<br/>- Cavo 5 metri<br/><br/>cod. 2435146",
+            "price": {
+              "full": "695,95",
+              "discount": "-90€",
+              "discounted": "605,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagWidth": 100
+            },
+            "productImage": "assets/schermata-2023-12-19-alle-12-23-03.png?w=300&h=223&ar=1.345291479820628",
+            "available": false,
+            "highlights": [],
+            "selectedBadge": "disponibile_su_norauto",
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/wallbox-pulsar-plus-t2-7-4kw-monofase-16a-5m-cavo-2435146.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13837,
+            "position": 31,
+            "modifier": "cell",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 15:51:58",
+              "update": "19/12/2023, 15:52:27"
+            },
+            "id": "658e9a46-5a18-40aa-a06c-0c9dac1f5aa6"
+          }
+        ],
+        "id": "veicoli_elettrici_1702994501735"
+      },
+      {
+        "name": "Ricambi",
+        "footer": {
+          "type": "image",
+          "props": {
+            "src": "assets/10bannercambioolio10.jpg?w=768&h=251&ar=3.0597609561752988",
+            "ctaUrl": "https://www.norauto.it/e/tagliando-e-cambio-olio.html?cod=LOCSHO01339IT"
+          }
+        },
+        "products": [
+          {
+            "brandImage": "assets/olma.png?w=123&h=60&ar=2.05",
+            "name": "Adblue® Olma 10 litri con erogatore",
+            "description": "cod. 2486488",
+            "price": {
+              "full": "17,95",
+              "discount": "-22%",
+              "discounted": "13,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "productImage": "assets/1-5409.png?w=218&h=300&ar=0.7266666666666667",
+            "available": false,
+            "highlights": [],
+            "selectedBadge": "fino_esaurimento_scorte",
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/adblue-olma-10l-con-erogatore-2486488.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13261,
+            "position": 32,
+            "modifier": "wide",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 15:53:36",
+              "update": "19/12/2023, 15:53:40"
+            },
+            "id": "658e9a46-cc80-47bf-99a3-44caac1f3abc"
+          },
+          {
+            "brandImage": "assets/norautologo.png?w=202&h=56&ar=3.607142857142857",
+            "name": "Lucidatrice orbitale 230V-90W",
+            "description": "cod. 97494",
+            "price": {
+              "full": "49,95",
+              "discount": "-40%",
+              "discounted": "29,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "productImage": "assets/2-833.png?w=300&h=294&ar=1.0204081632653061",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/lucidatrice-orbitale-230-v-da-90-w-norauto-97494.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13242,
+            "position": 33,
+            "id": "658e9a47-5cec-4079-a091-4710ac1f3abc"
+          },
+          {
+            "brandImage": "assets/norautologo.png?w=202&h=56&ar=3.607142857142857",
+            "name": "Cric idraulico",
+            "description": "cod. 67553",
+            "price": {
+              "full": "69,95",
+              "discount": "-24%",
+              "discounted": "52,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "productImage": "assets/3-665.png?w=300&h=206&ar=1.4563106796116505",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/cric-idraulico-norauto-n402-2t-67553.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13242,
+            "position": 34,
+            "id": "658e9a47-9c30-4e2e-8963-442dac1f3abc"
+          },
+          {
+            "name": "Caricabatterie smartcharge 4A-6/12V",
+            "description": "cod. 2207762",
+            "price": {
+              "full": "34,95",
+              "discount": "-28%",
+              "discounted": "24,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "productImage": "assets/4-607.png?w=300&h=116&ar=2.586206896551724",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/caricabatteria-smartcharge-4-a-da-6-12-v-2207762.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13242,
+            "position": 35,
+            "modifier": "cell",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 15:53:25",
+              "update": "20/12/2023, 11:24:15"
+            },
+            "id": "658e9a47-c7a8-4835-b116-44caac1f3abc"
+          },
+          {
+            "brandImage": "assets/norautologo.png?w=202&h=56&ar=3.607142857142857",
+            "name": "Booster avviamento emergency start",
+            "description": "cod. 2223452",
+            "price": {
+              "full": "139,95",
+              "discount": "-10%",
+              "discounted": "124,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagWidth": 100
+            },
+            "productImage": "assets/5-538.png?w=280&h=300&ar=0.9333333333333333",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/booster-avviamento-emergency-start-norauto-900a-2223452.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13242,
+            "position": 36,
+            "modifier": "cell",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 16:00:36",
+              "update": "19/12/2023, 16:00:36"
+            },
+            "id": "658e9a48-4ca8-45b0-8d64-0be6ac1f5aa6"
+          },
+          {
+            "name": "Lavavetro inverno 4L",
+            "description": "cod. 78563",
+            "price": {
+              "discounted": "4,99",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "discountedPriceColor": "rgba(226, 12, 20, 1)"
+            },
+            "subName": "Fino a -10°C",
+            "productImage": "assets/6-491.png?w=265&h=300&ar=0.8833333333333333",
+            "available": false,
+            "highlights": [],
+            "selectedBadge": "il_piu_economico",
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/lavavetri-inverno-primo-prezzo-one-10-4-litri-78563.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 15223,
+            "position": 37,
+            "modifier": "cell",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 16:00:05",
+              "update": "19/12/2023, 16:00:05"
+            },
+            "id": "658e9a48-5d18-440b-a57d-0ad0ac1f5aa6"
+          },
+          {
+            "name": "Liquido radiatore -10°",
+            "description": "cod. 762501",
+            "price": {
+              "discounted": "5,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "discountedPriceColor": "rgba(226, 12, 20, 1)"
+            },
+            "subName": "5 litri",
+            "productImage": "assets/7-437.png?w=249&h=300&ar=0.83",
+            "available": false,
+            "highlights": [],
+            "selectedBadge": "il_piu_economico",
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/liquido-radiatore-primo-prezzo-one-10-5-litri-762501.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13262,
+            "position": 38,
+            "modifier": "cell",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 15:59:42",
+              "update": "19/12/2023, 15:59:42"
+            },
+            "id": "658e9a49-4cf4-4723-801f-479cac1f3abc"
+          },
+          {
+            "brandImage": "assets/stp.png?w=82&h=60&ar=1.3666666666666667",
+            "name": "Pulitore iniettori benzina / diesel 200ml",
+            "description": "cod. 469877 / 469878",
+            "price": {
+              "full": "9,95",
+              "discount": "-20%",
+              "discounted": "7,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "productImage": "assets/8-399.png?w=212&h=300&ar=0.7066666666666667",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/pulitore-iniettori-benzina-stp-200ml-469877.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13262,
+            "position": 39,
+            "id": "658e9a49-9970-48f3-84c9-23f0ac1f577a"
+          },
+          {
+            "brandImage": "assets/norautologo.png?w=202&h=56&ar=3.607142857142857",
+            "name": "Olio 5W40 505.01",
+            "description": "",
+            "price": {
+              "full": "44,95",
+              "discount": "-11%",
+              "discounted": "39,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "subName": "5 litri",
+            "productImage": "assets/9-356.png?w=261&h=300&ar=0.87",
+            "available": false,
+            "highlights": [],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/p/olio-motore-norauto-c3-vw-505.01-5w40-5-litri-2276136.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13262,
+            "position": 40,
+            "modifier": "cell",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 15:53:57",
+              "update": "20/12/2023, 11:24:36"
+            },
+            "id": "658e9a49-780c-4ca7-8d53-0c72ac1f5aa6"
+          }
+        ],
+        "id": "ricambi_1702994501735"
+      },
+      {
+        "name": "Servizi Officina",
+        "header": {
+          "type": "image",
+          "props": {
+            "src": "assets/11bannerforfaitofficina11.jpg?w=768&h=211&ar=3.639810426540284"
+          }
+        },
+        "products": [
+          {
+            "brandImage": "assets/norauto_ferodo_brend_zzz.jpg?w=233&h=29&ar=8.03448275862069",
+            "name": "Pastiglie freno (2)",
+            "description": "",
+            "price": {
+              "full": "da",
+              "discounted": "39,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagTopBorderColor": "rgba(34, 25, 77, 0)",
+              "priceTagTopBackgroundColor": "rgba(34, 25, 77, 0)",
+              "formatPrice": "type1",
+              "priceCurrencyBackgroundColor": ""
+            },
+            "productImage": "assets/officina1.png?w=300&h=141&ar=2.127659574468085",
+            "available": false,
+            "highlights": [],
+            "unitType": "da",
+            "collapsibleSections": [
+              {
+                "title": "OFFERTE VALIDE",
+                "isDefaultOpen": true,
+                "contents": [
+                  {
+                    "type": "img",
+                    "props": {
+                      "data": {
+                        "src": "assets/bannerpastigliefreno_new_newqqq.jpg?w=704&h=320&ar=2.2",
+                        "maxWidth": 330,
+                        "alt": ""
+                      }
+                    }
+                  }
+                ],
+                "timing": {
+                  "create": "20/12/2023, 11:25:14",
+                  "update": "20/12/2023, 15:47:13"
+                }
+              }
+            ],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/e/cambio-pastiglie-e-dischi-freni.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13242,
+            "position": 41,
+            "brandImageWidth": "80px",
+            "modifier": "wide",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 15:54:12",
+              "update": "20/12/2023, 15:44:26"
+            },
+            "id": "658e9a4a-d688-4749-9e85-08f2ac1f5aa6"
+          },
+          {
+            "brandImage": "assets/norauto_ferodo_brembo_brend_zzz.jpg?w=271&h=22&ar=12.318181818181818",
+            "name": "Pastiglie + Dischi (2)",
+            "description": "",
+            "price": {
+              "full": "da",
+              "discounted": "159,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagTopBorderColor": "rgba(34, 25, 77, 0)",
+              "priceTagTopBackgroundColor": "rgba(34, 25, 77, 0)",
+              "formatPrice": "type1"
+            },
+            "productImage": "assets/officina2.png?w=300&h=148&ar=2.027027027027027",
+            "available": false,
+            "highlights": [],
+            "unitType": "da",
+            "collapsibleSections": [
+              {
+                "title": "OFFERTE VALIDE",
+                "isDefaultOpen": true,
+                "contents": [
+                  {
+                    "type": "img",
+                    "props": {
+                      "data": {
+                        "src": "assets/bannerpastigliefreno_new_newppp.jpg?w=704&h=320&ar=2.2",
+                        "maxWidth": 330,
+                        "alt": ""
+                      }
+                    }
+                  }
+                ],
+                "timing": {
+                  "create": "20/12/2023, 11:25:28",
+                  "update": "20/12/2023, 15:48:12"
+                }
+              }
+            ],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/e/cambio-pastiglie-e-dischi-freni.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13242,
+            "position": 42,
+            "brandImageWidth": "100px",
+            "modifier": "wide",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 15:54:18",
+              "update": "19/12/2023, 15:55:15"
+            },
+            "id": "658e9a4a-184c-4571-baa0-47b1ac1f3abc"
+          },
+          {
+            "brandImage": "assets/iina.png?w=60&h=60&ar=1",
+            "name": "Distribuzione (3)",
+            "description": "",
+            "price": {
+              "full": "da",
+              "discounted": "289,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagTopBorderColor": "rgba(34, 25, 77, 0)",
+              "priceTagTopBackgroundColor": "rgba(34, 25, 77, 0)",
+              "formatPrice": "type1"
+            },
+            "productImage": "assets/officina3.png?w=300&h=157&ar=1.910828025477707",
+            "available": false,
+            "highlights": [],
+            "unitType": "da",
+            "collapsibleSections": [
+              {
+                "title": "OFFERTE VALIDE",
+                "isDefaultOpen": true,
+                "contents": [
+                  {
+                    "type": "img",
+                    "props": {
+                      "data": {
+                        "src": "assets/bannerpastigliefreno_new_newkkk.jpg?w=704&h=320&ar=2.2",
+                        "maxWidth": 330,
+                        "alt": ""
+                      }
+                    }
+                  }
+                ],
+                "timing": {
+                  "create": "20/12/2023, 11:25:36",
+                  "update": "20/12/2023, 15:49:23"
+                }
+              }
+            ],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/c/47586-distribuzione.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13242,
+            "position": 43,
+            "modifier": "wide",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 15:57:10",
+              "update": "19/12/2023, 15:58:19"
+            },
+            "id": "658e9a4a-5274-4619-99b8-24beac1f577a"
+          },
+          {
+            "brandImage": "assets/monroeoriginal.png?w=207&h=51&ar=4.0588235294117645",
+            "name": "Ammortizzatori (4)",
+            "description": "",
+            "price": {
+              "full": "da",
+              "discounted": "214,95",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagTopBorderColor": "rgba(34, 25, 77, 0)",
+              "priceTagTopBackgroundColor": "rgba(34, 25, 77, 0)",
+              "formatPrice": "type1"
+            },
+            "productImage": "assets/officina4.png?w=300&h=93&ar=3.225806451612903",
+            "available": false,
+            "highlights": [],
+            "unitType": "da",
+            "collapsibleSections": [
+              {
+                "title": "OFFERTE VALIDE",
+                "isDefaultOpen": true,
+                "contents": [
+                  {
+                    "type": "img",
+                    "props": {
+                      "data": {
+                        "src": "assets/bannerpastigliefreno_new_newrrr.jpg?w=704&h=452&ar=1.5575221238938053",
+                        "maxWidth": 330,
+                        "alt": ""
+                      }
+                    }
+                  }
+                ],
+                "timing": {
+                  "create": "20/12/2023, 11:25:47",
+                  "update": "20/12/2023, 15:50:19"
+                }
+              }
+            ],
+            "ctas": [
+              {
+                "label": "Acquista",
+                "icon": "assets/cart.svg",
+                "alternate": true,
+                "action": {
+                  "type": "external",
+                  "url": "https://www.norauto.it/c/47589-ammortizzatori.html?cod=LOCSHO01339IT",
+                  "text": "Acquista",
+                  "title": "Acquista"
+                }
+              }
+            ],
+            "categoryId": 13668,
+            "position": 44,
+            "modifier": "wide",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "19/12/2023, 15:57:51",
+              "update": "19/12/2023, 15:57:59"
+            },
+            "id": "658e9a4b-b024-48e0-860b-0b77ac1f5aa6"
+          },
+          {
+            "name": "postille",
+            "type": "image",
+            "tracking": true,
+            "props": {
+              "src": "assets/VOLANTINO_GEN_24_postrille.jpg?w=768&h=355&ar=2.1633802816901406",
+              "modifier": "wide"
+            },
+            "timing": {
+              "create": "21/12/2023, 11:25:05",
+              "update": "21/12/2023, 11:25:05"
+            },
+            "modifier": "wide",
+            "position": 45
+          }
+        ],
+        "id": "servizi_officina_1702994501735"
+      },
+      {
+        "id": "1702998341579",
+        "name": "",
+        "products": [
+          {
+            "name": "Banner",
+            "type": "image",
+            "tracking": true,
+            "props": {
+              "src": "assets/Schermata-2023-12-21-alle-11.27.50.jpg?w=768&h=407&ar=1.886977886977887",
+              "modifier": "wide",
+              "ctaUrl": "https://www.norauto.it/e/tagliando-e-cambio-olio.html?cod=LOCSHO01339IT"
+            },
+            "timing": {
+              "create": "19/12/2023, 16:06:50",
+              "update": "21/12/2023, 11:28:33"
+            },
+            "modifier": "wide",
+            "position": 46
+          },
+          {
+            "name": "Banner",
+            "type": "image",
+            "tracking": true,
+            "props": {
+              "src": "assets/Schermata-2023-12-22-alle-15.01.16.jpg?w=768&h=454&ar=1.6916299559471366",
+              "modifier": "wide",
+              "ctaUrl": "https://www.norauto.it/e/revisione-auto.html?cod=LOCSHO01339IT"
+            },
+            "timing": {
+              "create": "19/12/2023, 16:07:22",
+              "update": "22/12/2023, 15:02:35"
+            },
+            "modifier": "wide",
+            "position": 47
+          },
+          {
+            "name": "Banner",
+            "type": "image",
+            "tracking": true,
+            "props": {
+              "src": "assets/PAGOCREDIT_BANNER_norauto.jpg?w=794&h=297&ar=2.6734006734006734",
+              "modifier": "wide",
+              "ctaUrl": "https://www.norauto.it/e/pagamento-sicuro.html?cod=LOCSHO01339IT"
+            },
+            "timing": {
+              "create": "19/12/2023, 16:08:22",
+              "update": "19/12/2023, 16:08:22"
+            },
+            "modifier": "wide",
+            "position": 48
+          },
+          {
+            "name": "Banner",
+            "type": "image",
+            "tracking": true,
+            "props": {
+              "src": "assets/oney_visa_banner_norauto.jpg?w=768&h=337&ar=2.27893175074184",
+              "modifier": "wide",
+              "ctaUrl": "https://www.norauto.it/e/oney.html?cod=LOCSHO01339IT"
+            },
+            "timing": {
+              "create": "19/12/2023, 16:07:50",
+              "update": "19/12/2023, 16:07:50"
+            },
+            "modifier": "wide",
+            "position": 49
+          }
+        ],
+        "timing": {
+          "create": "19/12/2023, 16:05:42",
+          "update": "19/12/2023, 16:05:42"
+        }
+      }
+    ],
+    "stores": [],
+    "frequentSearches": [""],
+    "fontSize": [],
+    "fontInfo": [],
+    "retailer": {
+      "centerPriceVertically": false,
+      "name": "Norauto",
+      "cssVars": [],
+      "ctas": [
+        {
+          "label": "Condividi",
+          "icon": "assets/share.svg",
+          "action": {
+            "type": "share",
+            "url": "",
+            "text": "Condividi",
+            "title": "Condividi"
+          },
+          "alternate": false,
+          "validity": {
+            "web": true,
+            "mobile": false
+          },
+          "timing": {
+            "create": "19/12/2023, 15:02:36",
+            "update": "19/12/2023, 15:02:36"
+          }
+        },
+        {
+          "label": "Aggiungi a lista",
+          "icon": "assets/shoppinglist.svg",
+          "action": {
+            "type": "shoppinglist",
+            "url": "",
+            "text": "+ Lista risparmio",
+            "title": "+ Lista risparmio"
+          },
+          "alternate": true,
+          "validity": {
+            "web": false,
+            "mobile": true
+          },
+          "timing": {
+            "create": "19/12/2023, 15:02:10",
+            "update": "19/12/2023, 15:02:10"
+          }
+        }
+      ]
+    },
+    "badges": [
+      {
+        "name": "a_partire_da_label",
+        "src": "assets/a_partire_da_label.png?w=133&h=29&ar=4.586206896551724",
+        "width": "",
+        "flyoutWidth": "",
+        "transformOrigin": "",
+        "flyoutTransformOrigin": "",
+        "translateX": "",
+        "flyoutTranslateX": "",
+        "translateY": "",
+        "flyoutTranslateY": ""
+      },
+      {
+        "name": "a_partire_da_su_tutta_la_gamma_label",
+        "src": "assets/a_partire_da_su_tutta_la_gamma_label.png?w=271&h=28&ar=9.678571428571429",
+        "width": "",
+        "flyoutWidth": "",
+        "transformOrigin": "",
+        "flyoutTransformOrigin": "",
+        "translateX": "",
+        "flyoutTranslateX": "",
+        "translateY": "",
+        "flyoutTranslateY": ""
+      },
+      {
+        "name": "disponibile_su_norauto",
+        "src": "assets/badgedisponibilesolosunorauto.png?w=271&h=30&ar=9.033333333333333",
+        "width": "",
+        "flyoutWidth": "",
+        "transformOrigin": "",
+        "flyoutTransformOrigin": "",
+        "translateX": "",
+        "flyoutTranslateX": "",
+        "translateY": "",
+        "flyoutTranslateY": ""
+      },
+      {
+        "name": "fino_esaurimento_scorte",
+        "src": "assets/badgefinoadesaurimentoscorte.png?w=271&h=32&ar=8.46875",
+        "width": "",
+        "flyoutWidth": "",
+        "transformOrigin": "",
+        "flyoutTransformOrigin": "",
+        "translateX": "",
+        "flyoutTranslateX": "",
+        "translateY": "",
+        "flyoutTranslateY": ""
+      },
+      {
+        "name": "il_piu_economico",
+        "src": "assets/badgeilpiueconomico.png?w=271&h=43&ar=6.3023255813953485",
+        "width": "",
+        "flyoutWidth": "",
+        "transformOrigin": "",
+        "flyoutTransformOrigin": "",
+        "translateX": "",
+        "flyoutTranslateX": "",
+        "translateY": "",
+        "flyoutTranslateY": ""
+      }
+    ],
+    "retailerId": 1047,
+    "template": "65817e08a44dd025696921ed",
+    "templates": [
+      {
+        "_id": "65817e08a44dd025696921ed",
+        "name": "norauto tpl 2",
+        "timing": {
+          "create": "19/12/2023, 11:27:04",
+          "update": "19/12/2023, 14:15:12"
+        },
+        "saved": true,
+        "basePath": "https://dg5ko83jkkp0n.cloudfront.net/public/it-prod/template/65817e08a44dd025696921ed/",
+        "cssVars": {
+          "withShadows": true,
+          "bodyBackgroundColor": "rgba(255, 255, 255, 1)",
+          "sectionBackgroundColor": "transparent",
+          "sectionHeadingBackgroundColor": "rgba(242, 186, 79, 1)",
+          "sectionHeadingTextColor": "rgba(255, 255, 255, 1)",
+          "headerBackgroundColor": "rgba(32, 42, 107, 1)",
+          "headerTextColor": "#FFFFFF",
+          "pillBackgroundColor": "#dbd8d8",
+          "pillTextColor": "rgba(32, 42, 107, 1)",
+          "activePillBackgroundColor": "rgba(242, 186, 79, 1)",
+          "activePillTextColor": "rgba(32, 42, 107, 1)",
+          "dotColor": "#DBD8D8",
+          "activeDotColor": "rgba(242, 186, 79, 1)",
+          "discountedPriceColor": "rgba(32, 42, 107, 1)",
+          "discountedPriceStrokeWidth": "",
+          "discountedPriceStrokeColor": "rgba(242, 186, 79, 1)",
+          "discountedPriceShadowColor": "rgba(0, 0, 0, 0)",
+          "priceTagTopBorderColor": "rgba(242, 186, 79, 1)",
+          "priceTagTopTextColor": "rgba(32, 42, 107, 1)",
+          "priceTagTopBackgroundColor": "rgba(242, 186, 79, 1)",
+          "discountPriceTextColor": "",
+          "discountPriceBackgroundColor": "rgba(242, 186, 79, 1)",
+          "phoneTextColor": "rgba(242, 186, 79, 1)",
+          "searchInputBackgroundColor": "rgba(255, 255, 255, 1)",
+          "searchInputTextColor": "rgba(32, 42, 107, 1)",
+          "searchInputCaretColor": "",
+          "colophonBackgroundColor": "rgba(32, 42, 107, 1)",
+          "colophonTextColor": "#FFFFFF",
+          "productTextColor": "rgba(32, 42, 107, 1)",
+          "productSubTextColor": "rgba(32, 42, 107, 1)",
+          "productBackgroundColor": "rgba(255, 255, 255, 1)",
+          "productBackgroundAlternativeColor": "rgba(255, 255, 255, 1)",
+          "productBackgroundWideColor": "rgba(255, 255, 255, 1)",
+          "navShadowBackgroundColor": "rgba(32, 42, 107, 1)",
+          "flyoutProductNameTextColor": "rgba(32, 42, 107, 1)",
+          "flyoutProductSubNameTextColor": "rgba(32, 42, 107, 1)",
+          "highlightBackgroundColor": "rgba(32, 42, 107, 1)",
+          "highlightTextColor": "#FFFFFF",
+          "collapsibleBlockBackgroundColor": "#DBD8D8",
+          "collapsibleBlockTextColor": "rgba(32, 42, 107, 1)",
+          "flyoutHandlerColor": "rgba(32, 42, 107, 1)",
+          "flyoutCloseBackgroundColor": "rgba(56, 57, 72, 1)",
+          "flyoutCloseIconColor": "rgba(255, 255, 255, 1)",
+          "flyoutBackgroundColor": "#FFFFFF",
+          "pairedProductBackgroundColor": "rgba(255, 255, 255, 1)",
+          "availabilityTextColor": "rgba(255, 255, 255, 1)",
+          "retailerLocationTextColor": "rgba(255, 255, 255, 1)",
+          "flyoutShadowColor": "rgba(255, 255, 255, 1)",
+          "ctaBackgroundColor": "#DBD8D8",
+          "ctaTextColor": "rgba(0, 0, 0, 1)",
+          "alternateCtaBackgroundColor": "rgba(242, 186, 79, 1)",
+          "alternateCtaTextColor": "rgba(0, 0, 0, 1)",
+          "pageSectionTitleTextColor": "#FFF",
+          "pageSectionBackIconColor": "#FFF",
+          "pageSectionSearchIconColor": "#FFF",
+          "storeAddressTextColor": "#FFF",
+          "storeCityTextColor": "#FFF",
+          "storeDistanceTextColor": "#FFF",
+          "storeDetailAddressTextColor": "#FFF",
+          "storeDetailTitleTextColor": "rgba(255, 255, 255, 1)",
+          "storeOpenBadgeTextColor": "rgba(255, 255, 255, 1)",
+          "storeOpenBadgeBackgroundColor": "rgba(208, 2, 27, 1)",
+          "storeOpenBadgeActiveTextColor": "rgba(255, 255, 255, 1)",
+          "storeOpenBadgeActiveBackgroundColor": "rgba(65, 117, 5, 1)",
+          "storeDayColor": "#FFF",
+          "storeOpeningHoursColor": "rgba(255, 255, 255, 1)",
+          "storeDetailSeparatedLineColor": "#FFF",
+          "priceTagBackgroundColor": "rgba(242, 186, 79, 0)",
+          "priceTagTextColor": "",
+          "priceTagBorderColor": "",
+          "unitTypeTextColor": "",
+          "unitTypeBackgroundColor": "",
+          "discountedCurrencyTextColor": "",
+          "discountedCurrencyBackgroundColor": "",
+          "priceCurrencyTextColor": "",
+          "priceCurrencyBackgroundColor": "",
+          "timing": {
+            "create": "17/10/2022, 17:16:47",
+            "update": "31/1/2024, 11:23:15"
+          }
+        },
+        "fontInfoCssVars": {
+          "pairedProductTextFontSize": "",
+          "pairedProductTextFontWeight": "700",
+          "pairedProductTextFontFamily": "HouschkaAltProBold",
+          "pairedProductTextLineHeight": "12px",
+          "pairedProductTextLetterSpacing": "",
+          "pairedProductTextTextTransform": "",
+          "storeItemFontSize": "",
+          "storeItemFontWeight": "400",
+          "storeItemFontFamily": "HouschkaAltProLight",
+          "storeItemLineHeight": "",
+          "storeItemLetterSpacing": "",
+          "storeItemTextTransform": "",
+          "searchSectionTitleFontSize": "",
+          "searchSectionTitleFontWeight": "400",
+          "searchSectionTitleFontFamily": "HouschkaAltProLight",
+          "searchSectionTitleLineHeight": "",
+          "searchSectionTitleLetterSpacing": "",
+          "searchSectionTitleTextTransform": "",
+          "suggestionItemFontSize": "",
+          "suggestionItemFontWeight": "400",
+          "suggestionItemFontFamily": "HouschkaAltProLight",
+          "suggestionItemLineHeight": "",
+          "suggestionItemLetterSpacing": "",
+          "suggestionTextTransform": "",
+          "searchInputFontSize": "",
+          "searchInputFontWeight": "400",
+          "searchInputFontFamily": "HouschkaAltProLight",
+          "searchInputLineHeight": "",
+          "searchInputLetterSpacing": "",
+          "searchInputTextTransform": "",
+          "searchClearFontSize": "",
+          "searchClearFontWeight": "400",
+          "searchClearFontFamily": "HouschkaAltProLight",
+          "searchClearLineHeight": "",
+          "searchClearLetterSpacing": "",
+          "searchClearTextTransform": "",
+          "searchDataFontSize": "",
+          "searchDataFontWeight": "400",
+          "searchDataFontFamily": "HouschkaAltProLight",
+          "searchDataLineHeight": "",
+          "searchDataLetterSpacing": "",
+          "searchDataTextTransform": "",
+          "retailerLocationFontSize": "",
+          "retailerLocationFontWeight": "400",
+          "retailerLocationFontFamily": "HouschkaAltProLight",
+          "retailerLocationLineHeight": "",
+          "retailerLocationLetterSpacing": "",
+          "retailerLocationTextTransform": "",
+          "pillFontSize": "13px",
+          "pillFontWeight": "700",
+          "pillFontFamily": "HouschkaAltProBold",
+          "pillLineHeight": "",
+          "pillLetterSpacing": "",
+          "pillTextTransform": "",
+          "searchItemFontSize": "",
+          "searchItemFontWeight": "400",
+          "searchItemFontFamily": "HouschkaAltProLight",
+          "searchItemLineHeight": "",
+          "searchItemLetterSpacing": "",
+          "searchItemTextTransform": "",
+          "flyoutProductNameFontSize": "20px",
+          "flyoutProductNameFontWeight": "700",
+          "flyoutProductNameFontFamily": "HouschkaAltProBold",
+          "flyoutProductNameLineHeight": "24px",
+          "flyoutProductNameLetterSpacing": "",
+          "flyoutProductNameReducedFontSize": "17px",
+          "flyoutProductNameReducedFontWeight": "700",
+          "flyoutProductNameReducedFontFamily": "HouschkaAltProBold",
+          "flyoutProductNameReducedLineHeight": "21px",
+          "flyoutProductNameReducedLetterSpacing": "",
+          "flyoutProductNameReducedTextTransform": "",
+          "flyoutProductSubNameFontSize": "18px",
+          "flyoutProductSubNameFontWeight": "400",
+          "flyoutProductSubNameFontFamily": "HouschkaAltProLight",
+          "flyoutProductSubNameLineHeight": "20px",
+          "flyoutProductSubNameLetterSpacing": "",
+          "flyoutProductSubNameReducedFontSize": "",
+          "flyoutProductSubNameReducedFontWeight": "400",
+          "flyoutProductSubNameReducedFontFamily": "HouschkaAltProLight",
+          "flyoutProductSubNameReducedLineHeight": "",
+          "flyoutProductSubNameReducedLetterSpacing": "",
+          "flyoutProductSubNameReducedTextTransform": "",
+          "flyoutProductDescriptionFontSize": "16px",
+          "flyoutProductDescriptionFontWeight": "400",
+          "flyoutProductDescriptionFontFamily": "HouschkaAltProLight",
+          "flyoutProductDescriptionLineHeight": "",
+          "flyoutProductDescriptionLetterSpacing": "",
+          "flyoutProductDescriptionTextTransform": "",
+          "highlightsSmallFontSize": "",
+          "highlightsSmallFontWeight": "",
+          "highlightsSmallFontFamily": "",
+          "highlightsSmallLineHeight": "",
+          "highlightsSmallLetterSpacing": "",
+          "highlightsSmallTextTransform": "",
+          "highlightsFontSize": "",
+          "highlightsFontWeight": "700",
+          "highlightsFontFamily": "HouschkaAltProBold",
+          "highlightsLineHeight": "",
+          "highlightsLetterSpacing": "",
+          "highlightsTextTransform": "",
+          "collapsibleBlockHandlerFontSize": "",
+          "collapsibleBlockHandlerFontWeight": "700",
+          "collapsibleBlockHandlerFontFamily": "HouschkaAltProBold",
+          "collapsibleBlockHandlerLineHeight": "",
+          "collapsibleBlockHandlerLetterSpacing": "",
+          "collapsibleBlockHandlerTextTransform": "",
+          "ctaFontSize": "",
+          "ctaFontWeight": "700",
+          "ctaFontFamily": "HouschkaAltProBold",
+          "ctaLineHeight": "",
+          "ctaLetterSpacing": "",
+          "ctaTextTransform": "",
+          "discountSmallFontSize": "12px",
+          "discountSmallFontWeight": "700",
+          "discountSmallFontFamily": "HouschkaAltProBold",
+          "discountSmallLineHeight": "",
+          "discountSmallLetterSpacing": "",
+          "discountSmallTextTransform": "",
+          "fullFontSize": "13px",
+          "fullFontWeight": "700",
+          "fullFontFamily": "HouschkaAltProBold",
+          "fullLineHeight": "9",
+          "fullLetterSpacing": "",
+          "fullTextTransform": "",
+          "availabilityFontSize": "",
+          "availabilityFontWeight": "700",
+          "availabilityFontFamily": "HouschkaAltProBold",
+          "availabilityLineHeight": "",
+          "availabilityLetterSpacing": "",
+          "availabilityTextTransform": "",
+          "blockFontSize": "",
+          "blockFontWeight": "700",
+          "blockFontFamily": "HouschkaAltProBold",
+          "blockLineHeight": "",
+          "blockLetterSpacing": "",
+          "blockTextTransform": "",
+          "colophonFontSize": "15px",
+          "colophonFontWeight": "400",
+          "colophonFontFamily": "HouschkaAltProLight",
+          "colophonLineHeight": "",
+          "colophonLetterSpacing": "",
+          "colophonTextTransform": "",
+          "sectionHeaderFontSize": "26px",
+          "sectionHeaderFontWeight": "900",
+          "sectionHeaderFontFamily": "HouschkaAltPro-ExtraBoldItalic",
+          "sectionHeaderLineHeight": "60px",
+          "sectionHeaderLetterSpacing": "",
+          "sectionHeaderTextTransform": "uppercase",
+          "productCellSingleNameFontSize": "14px",
+          "productCellSingleNameFontWeight": "700",
+          "productCellSingleNameFontFamily": "HouschkaAltProBold",
+          "productCellSingleNameLineHeight": "15px",
+          "productCellSingleNameLetterSpacing": "",
+          "productCellSingleNameTextTransform": "Initial",
+          "productCellWideNameFontSize": "15px",
+          "productCellWideNameFontWeight": "700",
+          "productCellWideNameFontFamily": "HouschkaAltProBold",
+          "productCellWideNameLineHeight": "16px",
+          "productCellWideNameLetterSpacing": "",
+          "productCellWideNameTextTransform": "Initial",
+          "productCellSingleSubNameFontSize": "13px",
+          "productCellSingleSubNameFontWeight": "400",
+          "productCellSingleSubNameFontFamily": "HouschkaAltProLight",
+          "productCellSingleSubNameLineHeight": "15px",
+          "productCellSingleSubNameLetterSpacing": "",
+          "productCellSingleSubNameTextTransform": "Initial",
+          "productCellWideSubNameFontSize": "14px",
+          "productCellWideSubNameFontWeight": "400",
+          "productCellWideSubNameFontFamily": "HouschkaAltProLight",
+          "productCellWideSubNameLineHeight": "16px",
+          "productCellWideSubNameLetterSpacing": "",
+          "productCellWideSubNameTextTransform": "Initial",
+          "priceTagDiscountedFontSize": "40",
+          "priceTagDiscountedFontWeight": "",
+          "priceTagDiscountedFontFamily": "HouschkaAltProBold",
+          "priceTagDiscountedLineHeight": "42px",
+          "priceTagDiscountedLetterSpacing": "",
+          "priceTagDiscountedTextTransform": "",
+          "discountedFontSize": "42px",
+          "discountedFontWeight": "",
+          "discountedFontFamily": "HouschkaAltProBold",
+          "discountedLineHeight": "38px",
+          "discountedLetterSpacing": "",
+          "discountedTextTransform": "",
+          "discountedCurrencyFontSize": "15px",
+          "discountedCurrencyFontWeight": "",
+          "discountedCurrencyFontFamily": "",
+          "discountedCurrencyLineHeight": "17px",
+          "discountedCurrencyLetterSpacing": "",
+          "discountedCurrencyTextTransform": "",
+          "discountFontSize": "13",
+          "discountFontWeight": "",
+          "discountFontFamily": "HouschkaAltProBold",
+          "discountLineHeight": "13px",
+          "discountLetterSpacing": "-0.25px",
+          "discountTextTransform": "",
+          "priceFontSize": "13",
+          "priceFontWeight": "700",
+          "priceFontFamily": "HouschkaAltProBold",
+          "priceLineHeight": "10px",
+          "priceLetterSpacing": "-0.25px",
+          "priceTextTransform": "",
+          "priceCurrencyFontSize": "",
+          "priceCurrencyFontWeight": "",
+          "priceCurrencyFontFamily": "",
+          "priceCurrencyLineHeight": "",
+          "priceCurrencyLetterSpacing": "",
+          "priceCurrencyTextTransform": "",
+          "unitTypeFontSize": "6.5",
+          "unitTypeFontWeight": "",
+          "unitTypeFontFamily": "",
+          "unitTypeLineHeight": "",
+          "unitTypeLetterSpacing": "-0.25px",
+          "unitTypeTextTransform": "",
+          "discountedSvgFontSize": "",
+          "discountedSvgFontWeight": "700",
+          "discountedSvgFontFamily": "HouschkaAltProBold",
+          "discountedSvgLineHeight": "",
+          "discountedSvgLetterSpacing": "",
+          "discountedSvgTextTransform": "",
+          "timing": {
+            "create": "17/10/2022, 17:28:22",
+            "update": "1/2/2024, 17:35:35"
+          },
+          "highlightsSmallFontFami": "HouschkaAltProBold",
+          "highlightsSmallFontWeig": "700"
+        },
+        "fonts": {
+          "source": "webfont.css",
+          "families": [
+            {
+              "name": "HouschkaAltProLight",
+              "source": "fonts/HouschkaAltProLight.woff"
+            },
+            {
+              "name": "HouschkaAltProLight",
+              "source": "fonts/HouschkaAltProLight.woff2"
+            },
+            {
+              "name": "HouschkaAltProBold",
+              "source": "fonts/HouschkaAltProBold.woff"
+            },
+            {
+              "name": "HouschkaAltProBold",
+              "source": "fonts/HouschkaAltProBold.woff2"
+            },
+            {
+              "name": "HouschkaAltPro-ExtraBold",
+              "source": "fonts/HouschkaAltPro-ExtraBold.woff2"
+            },
+            {
+              "name": "HouschkaAltPro-ExtraBold",
+              "source": "fonts/HouschkaAltPro-ExtraBold.woff"
+            },
+            {
+              "name": "HouschkaAltPro-ExtraBoldItalic",
+              "source": "fonts/HouschkaAltPro-ExtraBoldItalic.woff2"
+            },
+            {
+              "name": "HouschkaAltPro-ExtraBoldItalic",
+              "source": "fonts/HouschkaAltPro-ExtraBoldItalic.woff"
+            }
+          ],
+          "timing": {
+            "create": "17/10/2022, 17:15:20",
+            "update": "21/12/2023, 14:21:36"
+          }
+        },
+        "priceInfo": {
+          "priceTagWidth": 90,
+          "priceTagHeight": null,
+          "centerPriceVertically": true,
+          "priceDecimalSeparator": ",",
+          "discountDecimalSeparator": ",",
+          "priceTrasform": "scaleX(1) translateX(-40%) translateY(-50%)",
+          "timing": {
+            "create": "17/10/2022, 17:10:24",
+            "update": "1/2/2024, 17:38:16"
+          }
+        },
+        "productInfo": {
+          "iconPlusActive": true,
+          "iconPlusWidth": "50px",
+          "iconPlusHeight": "50px",
+          "iconPlusLevel": 3,
+          "iconPlusImage": "assets/plus-white.png?w=550&h=550&ar=1",
+          "iconPlusPositionX": "50%",
+          "iconPlusPositionY": "50%",
+          "iconPlusAnimationDuration": "0.6s",
+          "iconPlusBlinkTimes": 5,
+          "iconPlusOpacity": "90%",
+          "singleCellHeight": "300",
+          "wideCellHeight": "",
+          "formatPrice": "type16",
+          "bottomSheetSingleMode": false,
+          "timing": {
+            "create": "13/9/2022, 11:11:43",
+            "update": "22/11/2023, 14:13:03"
+          }
+        },
+        "retailerInfo": {
+          "logo": "assets/Plan%20de%20travail%201.svg?w=0&h=0&ar=NaN",
+          "icon": "",
+          "favicon": "",
+          "performanceCheckLimit": 300,
+          "timing": {
+            "create": "19/12/2023, 11:27:04",
+            "update": "19/12/2023, 11:27:04"
+          }
+        },
+        "badges": [
+          {
+            "name": "Almeno_20",
+            "src": "assets/Badge_ALMENO_20.png?w=379&h=100&ar=3.79",
+            "transformOrigin": "center left",
+            "flyoutTransformOrigin": "bottom left",
+            "flyoutWidth": "140px",
+            "flyoutHeight": "",
+            "flyoutTranslateX": "8px",
+            "flyoutTranslateY": "-28px",
+            "width": "80px",
+            "height": "",
+            "translateX": "14px",
+            "translateY": "-38px",
+            "timing": {
+              "create": "11/9/2023, 17:54:53",
+              "update": "11/9/2023, 18:15:13"
+            }
+          },
+          {
+            "name": "dilazionabilefinoa20",
+            "src": "assets/dilazionabilefinoal20_new1.png?w=193&h=143&ar=1.3496503496503496",
+            "transformOrigin": "bottom left",
+            "flyoutTransformOrigin": "bottom left",
+            "flyoutWidth": "115px",
+            "width": "115px",
+            "translateX": "-5px",
+            "translateY": "-12px",
+            "flyoutTranslateX": "-7px",
+            "flyoutTranslateY": "-12px",
+            "timing": {
+              "create": "20/9/2023, 14:13:13",
+              "update": "29/9/2023, 11:15:36"
+            }
+          },
+          {
+            "name": "dilazionabilefinoal20wide",
+            "src": "assets/wideedilazionabilefinoal20.png?w=193&h=119&ar=1.6218487394957983",
+            "width": "100px",
+            "transformOrigin": "bottom left",
+            "flyoutTransformOrigin": "bottom left",
+            "flyoutWidth": "110px",
+            "flyoutTranslateY": "-5px",
+            "translateY": "-4px",
+            "timing": {
+              "create": "20/9/2023, 14:21:04",
+              "update": "29/9/2023, 11:16:03"
+            },
+            "flyoutTranslateX": "-5px",
+            "translateX": "13px"
+          },
+          {
+            "name": "meno5",
+            "src": "assets/meno5.png?w=475&h=478&ar=0.9937238493723849",
+            "transformOrigin": "bottom left",
+            "flyoutTransformOrigin": "bottom left",
+            "timing": {
+              "create": "8/11/2023, 14:45:42",
+              "update": "8/11/2023, 16:21:56"
+            },
+            "width": "80px",
+            "top": "-45px",
+            "left": "0px",
+            "flyoutWidth": "90px",
+            "flyoutTop": "-10px",
+            "flyoutLeft": "0px"
+          },
+          {
+            "name": "meno10",
+            "src": "assets/meno10.png?w=475&h=478&ar=0.9937238493723849",
+            "transformOrigin": "bottom left",
+            "flyoutTransformOrigin": "bottom left",
+            "timing": {
+              "create": "8/11/2023, 14:46:00",
+              "update": "8/11/2023, 16:21:17"
+            },
+            "width": "80px",
+            "left": "0px",
+            "top": "-45px",
+            "flyoutWidth": "90px",
+            "flyoutTop": "-10px",
+            "flyoutLeft": "0px"
+          },
+          {
+            "name": "meno15",
+            "src": "assets/meno15.png?w=334&h=336&ar=0.9940476190476191",
+            "transformOrigin": "bottom left",
+            "flyoutTransformOrigin": "bottom left",
+            "timing": {
+              "create": "8/11/2023, 14:46:13",
+              "update": "8/11/2023, 16:22:22"
+            },
+            "width": "80px",
+            "top": "-45px",
+            "left": "0px",
+            "flyoutWidth": "90px",
+            "flyoutTop": "-10px",
+            "flyoutLeft": "0px"
+          },
+          {
+            "name": "meno20",
+            "src": "assets/meno20.png?w=475&h=478&ar=0.9937238493723849",
+            "transformOrigin": "bottom left",
+            "flyoutTransformOrigin": "bottom left",
+            "timing": {
+              "create": "8/11/2023, 14:46:27",
+              "update": "8/11/2023, 16:22:41"
+            },
+            "width": "80px",
+            "top": "-45px",
+            "left": "0px",
+            "flyoutWidth": "90px",
+            "flyoutTop": "-10px",
+            "flyoutLeft": "0px"
+          },
+          {
+            "name": "meno40",
+            "src": "assets/meno40.png?w=475&h=478&ar=0.9937238493723849",
+            "transformOrigin": "bottom left",
+            "flyoutTransformOrigin": "bottom left",
+            "timing": {
+              "create": "8/11/2023, 14:46:43",
+              "update": "8/11/2023, 16:23:00"
+            },
+            "width": "80px",
+            "top": "-45px",
+            "left": "0px",
+            "flyoutWidth": "90px",
+            "flyoutTop": "-10px",
+            "flyoutLeft": "0px"
+          },
+          {
+            "name": "meno70",
+            "src": "assets/meno70.png?w=475&h=478&ar=0.9937238493723849",
+            "transformOrigin": "bottom left",
+            "flyoutTransformOrigin": "bottom left",
+            "timing": {
+              "create": "8/11/2023, 14:46:56",
+              "update": "8/11/2023, 16:23:18"
+            },
+            "width": "80px",
+            "top": "-45px",
+            "left": "0px",
+            "flyoutWidth": "90px",
+            "flyoutTop": "-10px",
+            "flyoutLeft": "0px"
+          },
+          {
+            "name": "finomeno10",
+            "src": "assets/finomeno10.png?w=471&h=474&ar=0.9936708860759493",
+            "transformOrigin": "bottom left",
+            "flyoutTransformOrigin": "bottom left",
+            "timing": {
+              "create": "8/11/2023, 14:47:09",
+              "update": "8/11/2023, 16:23:39"
+            },
+            "width": "80px",
+            "top": "-45px",
+            "left": "0px",
+            "flyoutWidth": "90px",
+            "flyoutTop": "-10px",
+            "flyoutLeft": "0px"
+          },
+          {
+            "name": "finomeno20",
+            "src": "assets/finomeno20.png?w=471&h=474&ar=0.9936708860759493",
+            "transformOrigin": "bottom left",
+            "flyoutTransformOrigin": "bottom left",
+            "timing": {
+              "create": "8/11/2023, 14:47:31",
+              "update": "8/11/2023, 16:23:57"
+            },
+            "width": "80px",
+            "top": "-45px",
+            "left": "0px",
+            "flyoutWidth": "90px",
+            "flyoutTop": "-10px",
+            "flyoutLeft": "0px"
+          },
+          {
+            "name": "finomeno25",
+            "src": "assets/finomeno25.png?w=471&h=474&ar=0.9936708860759493",
+            "transformOrigin": "bottom left",
+            "flyoutTransformOrigin": "bottom left",
+            "timing": {
+              "create": "8/11/2023, 14:47:44",
+              "update": "8/11/2023, 16:24:14"
+            },
+            "width": "80px",
+            "top": "-45px",
+            "left": "0px",
+            "flyoutWidth": "90px",
+            "flyoutTop": "-10px",
+            "flyoutLeft": "0px"
+          },
+          {
+            "name": "finomeno30",
+            "src": "assets/finomeno30.png?w=471&h=474&ar=0.9936708860759493",
+            "transformOrigin": "bottom left",
+            "flyoutTransformOrigin": "bottom left",
+            "timing": {
+              "create": "8/11/2023, 14:47:55",
+              "update": "8/11/2023, 16:24:36"
+            },
+            "width": "80px",
+            "top": "-45px",
+            "left": "0px",
+            "flyoutWidth": "90px",
+            "flyoutTop": "-10px",
+            "flyoutLeft": "0px"
+          },
+          {
+            "name": "finomeno50",
+            "src": "assets/finomeno50.png?w=471&h=474&ar=0.9936708860759493",
+            "transformOrigin": "bottom left",
+            "flyoutTransformOrigin": "bottom left",
+            "timing": {
+              "create": "8/11/2023, 14:48:07",
+              "update": "8/11/2023, 16:24:51"
+            },
+            "width": "80px",
+            "top": "-45px",
+            "left": "0px",
+            "flyoutWidth": "90px",
+            "flyoutTop": "-10px",
+            "flyoutLeft": "0px"
+          },
+          {
+            "name": "a_partire_da_label",
+            "src": "assets/a_partire_da_label.png?w=133&h=29&ar=4.586206896551724",
+            "width": "40px",
+            "transformOrigin": "bottom left",
+            "flyoutWidth": "40px",
+            "flyoutTransformOrigin": "bottom left",
+            "timing": {
+              "create": "15/12/2023, 14:23:29",
+              "update": "15/12/2023, 14:37:37"
+            },
+            "top": "-10px"
+          },
+          {
+            "name": "a_partire_da_su_tutta_la_gamma_label",
+            "src": "assets/a_partire_da_su_tutta_la_gamma_label.png?w=271&h=28&ar=9.678571428571429",
+            "width": "90px",
+            "top": "-15px",
+            "left": "",
+            "flyoutWidth": "90px",
+            "flyoutTop": "",
+            "flyoutLeft": "",
+            "transformOrigin": "bottom left",
+            "flyoutTransformOrigin": "bottom left",
+            "timing": {
+              "create": "19/12/2023, 11:47:23",
+              "update": "19/12/2023, 15:10:12"
+            }
+          },
+          {
+            "name": "disponibile_su_norauto",
+            "src": "assets/badgedisponibilesolosunorauto.png?w=271&h=30&ar=9.033333333333333",
+            "width": "90px",
+            "top": "-15px",
+            "transformOrigin": "bottom left",
+            "flyoutWidth": "90px",
+            "flyoutTransformOrigin": "bottom left",
+            "timing": {
+              "create": "19/12/2023, 14:04:43",
+              "update": "19/12/2023, 17:02:02"
+            },
+            "left": "10px"
+          },
+          {
+            "name": "fino_esaurimento_scorte",
+            "src": "assets/badgefinoadesaurimentoscorte.png?w=271&h=32&ar=8.46875",
+            "width": "110px",
+            "top": "-15px",
+            "transformOrigin": "bottom left",
+            "flyoutWidth": "90px",
+            "flyoutTransformOrigin": "bottom left",
+            "timing": {
+              "create": "19/12/2023, 14:05:47",
+              "update": "5/2/2024, 09:46:53"
+            },
+            "left": "15px"
+          },
+          {
+            "name": "il_piu_economico",
+            "src": "assets/badgeilpiueconomico.png?w=271&h=43&ar=6.3023255813953485",
+            "width": "80px",
+            "flyoutWidth": "80px",
+            "transformOrigin": "bottom left",
+            "flyoutTransformOrigin": "bottom left",
+            "top": "-10px",
+            "timing": {
+              "create": "19/12/2023, 14:06:53",
+              "update": "19/12/2023, 15:10:31"
+            },
+            "left": "20px"
+          },
+          {
+            "name": "Fino_al_33_su_tutta_la_gamma",
+            "src": "assets/Fino_al_33_su_tutta_la_gamma.png?w=212&h=150&ar=1.4133333333333333",
+            "transformOrigin": "bottom left",
+            "flyoutTransformOrigin": "bottom left",
+            "timing": {
+              "create": "24/1/2024, 10:16:27",
+              "update": "31/1/2024, 11:29:46"
+            },
+            "width": "90px",
+            "flyoutWidth": "120px",
+            "top": "90px",
+            "left": "13px",
+            "flyoutTop": "10px",
+            "flyoutLeft": "13px"
+          }
+        ],
+        "retailerId": 1047
+      }
+    ],
+    "templatesComponents": [],
+    "basePath": "https://dg5ko83jkkp0n.cloudfront.net/public/it-prod/1047/6581a2380761f88d46e85474/",
+    "columnsCount": 2,
+    "timing": {
+      "create": "19/12/2023, 15:03:15",
+      "update": "21/12/2023, 11:28:55"
+    },
+    "saved": true,
+    "numRetrys": 0,
+    "active": true,
+    "jobExecution": {
+      "autoTagged": true
+    },
+    "status": "processed",
+    "id": 1108430,
+    "state": "PROCESSED"
+  },
+  "result": "ok"
+}

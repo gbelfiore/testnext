@@ -1,0 +1,50 @@
+.singleCellDefault {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+  justify-content: space-between;
+}
+
+.variants {
+  height: 32px;
+  width: 100%;
+}
+
+.image {
+  @apply relative flex max-h-[65%] min-h-[50%] w-full;
+}
+
+.imageWithVariant {
+  width: 100%;
+  min-height: 50%;
+}
+
+.info {
+  @apply mx-0 my-1.5 max-h-[50%] w-full gap-1;
+  @apply flex grow flex-row items-end;
+}
+
+.description {
+  @apply mr-[2px]  min-w-0;
+  @apply flex grow flex-row items-end justify-center;
+}
+
+.price {
+  @apply max-w-[50%];
+  @apply flex flex-row items-end justify-center;
+  /* @apply bg-green-500; */
+}
+
+.price > div {
+  @apply scale-90 sm:scale-100;
+  @apply origin-bottom;
+
+  /* @apply bg-red-500; */
+}
+
+.paired {
+  width: 100%;
+  height: 47px;
+}

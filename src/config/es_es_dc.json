@@ -1,0 +1,62 @@
+{
+  "LANG": "es",
+  "REACT_APP_SCHEMA_ENDPOINT": "https://environments-es.dacnl39nyabtl.amplifyapp.com",
+  "MONGODB_URI": "mongodb://retailtechbackoffice:dIdqA22zy0@54.195.84.208:27077/retailtech-es?authMechanism=DEFAULT&authSource=retailtech-es",
+  "SHOPFULLY": {
+    "FLYER_STORES_URL": "https://d1h08qwp2t1dnu.cloudfront.net/v1/es_es/flyers/[id]/stores.json",
+    "STORE_OPENING_HOURS_URL": "https://api-admin.shopfully.cloud/v1/es_es/flyers/[id]/stores/count.json",
+    "FLAYERS_API_KEY": "2e44e70b-2c17-4abf-8443-685e6eb5a48e",
+    "USERNAME": "diside",
+    "PASSWORD": "c6qrwZGZYyBXrQUm"
+  },
+  "COOKIE_POLICY": {
+    "PROVIDER": "oneTrust",
+    "ONETRUST": {
+      "SITE_ID": "e167ccb1-e6cf-46d1-921c-6f30ea488f55"
+    },
+    "IUBENDA": {
+      "SITE_ID": 779557,
+      "COOKIE_POLICY_ID": 8087092,
+      "LANG": "es",
+      "CONTENT": "<div class='iubenda-content-text-wrapper'>\n<strong>A sua privacidade é importante para nós.</strong></br></br>No nosso site utilizamos cookies técnicos e, com alguns parceiros selezionados e com o seu prévio consentimento, utilizamos também cookies de segmentação, para efetuar uma análise do seu comportamento e fornecer a você conteúdos relacionados às suas preferências. Clicando em ''Aceitar todos'’ você autoriza e poderá visualizar conteúdos e anúncios publicitários pertinentes ao seu interesse. Você pode, a qualquer momento, especificar as suas preferências acessando a opção ''Gerenciar opções''. Se você fechar esse banner irá continuar a sua navegação sem a instalação de cookies de segmentação, mas o conteúdo do site e os anúncios publicitários serão sobre assuntos genéricos e não pertinentes ao seu interesse. Para maiores informações visite a nossa <a target=\"_blank\" href=https://business.tiendeo.com/en/legal-notice/ class=\"iubenda-privacy-policy-link\">Politica de Privacidade</a> e <a target=\"_blank\" href=https://www.iubenda.com/privacy-policy/67988134/cookie-policy class=\"iubenda-privacy-policy-link\">cookie policy</a>.\n</div>",
+      "CUSTOMIZE_BUTTON_CAPTION": "Gerenciar opções",
+      "ACCEPT_BUTTON_CAPTION": "Aceitar todos",
+      "COOKIE_POLICY_LINK_CAPTION": "Cookie Policy",
+      "CLOSE_BUTTON_CAPTION": "Continuar navegando sem aceita"
+    }
+  },
+  "FACEBOOK": {
+    "ID": "1494568314088738",
+    "COUNTRY": "es"
+  },
+  "SHOPPING_LIST": {
+    "DEEP_LINK": "dvc://www.doveconviene.it/_actions/contentmemo",
+    "ENABLED": true
+  },
+  "TIENDEO_EN_PROPERTY_ID": "",
+  "ENVIRONMENT": "PROD-ES-DC",
+  "HOTJAR": {
+    "ID": 3682808
+  },
+  "TRACKING": {
+    "ENDPOINT": "https://log.shopfully.cloud",
+    "ENDPOINT_TIENDEO_EN": "",
+    "TOKEN": "MzF72DJ9Rg8JKRpBjxg6wNSsCkGp2ch8",
+    "TOKEN_TIENDEO_EN": ""
+  },
+  "ENABLE_WEBP": true,
+  "SHARE": {
+    "LANG": "es"
+  },
+  "ADV": {
+    "ENABLED": false
+  },
+  "SEARCH": {
+    "URL": "https://w8fb4bcyxe.execute-api.eu-west-1.amazonaws.com/stg//v1/it_it/flyers/{{FLYER_ID}}/flyer_gibs.json",
+    "API_KEY": "5dd2c795-4408-4457-8767-45190a652f6d"
+  },
+  "GOOGLE_ADS": {
+    "CONVERSION_ID": "AW-812326464",
+    "CONVERSION_LABEL": "z-2mCNS7kogBEMC8rIMD"
+  }
+}

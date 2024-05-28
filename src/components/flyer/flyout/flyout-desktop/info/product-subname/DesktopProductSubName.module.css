@@ -1,0 +1,8 @@
+.desktopProductSubName {
+  text-align: left;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  -webkit-box-pack: end;
+}

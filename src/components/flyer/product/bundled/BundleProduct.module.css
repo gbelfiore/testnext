@@ -1,0 +1,21 @@
+.bundleProductWrapper {
+    position: relative;
+    display: flex;
+}
+
+
+.bundleProductNameContainer>div {
+    display: -webkit-box;
+    -webkit-line-clamp: var(--bundle-product-var1);
+    -webkit-box-orient: vertical;
+    white-space: normal;
+    overflow: hidden;
+}
+
+.bundleProductDescriptionContainer>div {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: var(--bundle-product-var2);
+    -webkit-box-orient: vertical;
+}

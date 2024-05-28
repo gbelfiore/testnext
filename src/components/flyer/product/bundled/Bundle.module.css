@@ -1,0 +1,46 @@
+.bundleTitleContainer {
+    height: auto;
+    display: flex;
+    align-items: center;
+}
+
+.bundleSubText {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.bundleSubText>div {
+    color: var(--bundle-var4);
+    padding: 0;
+}
+
+.bundleTitleContainer>div {
+    font-size: 16px !important;
+    line-height: 16px !important;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.bundleProductContent {
+    display: flex;
+}
+
+.bundleProductList {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.bundleProductList>svg {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}

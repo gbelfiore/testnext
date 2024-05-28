@@ -1,0 +1,22 @@
+.list {
+  @apply float-left mx-[0] my-[10px] max-h-[800px] w-full flex-[1] overflow-auto p-[16px];
+}
+
+@media (max-width: 767px) {
+  .list {
+    @apply max-h-[400px];
+  }
+}
+
+.listItem {
+  @apply float-left mb-[8px] flex h-[15vw] max-h-[100px] w-full cursor-pointer select-none items-center justify-start  rounded-[8px] [transition:background-color_.3s_ease];
+}
+
+.listItemSx {
+  @apply h-full w-1/4 p-[8px];
+}
+
+.listItemDx {
+  @apply flex flex-[1] flex-col justify-center;
+  @apply py-[8px] pl-[0] pr-[8px];
+}

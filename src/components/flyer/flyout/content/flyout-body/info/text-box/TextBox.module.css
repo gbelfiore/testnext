@@ -1,0 +1,25 @@
+.content {
+  overflow: hidden;
+  position: relative;
+}
+
+.bottomShadow {
+  position: absolute;
+  bottom: 0;
+  height: 62px;
+  width: 100%;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.00) 0%, #FFF 85%);
+}
+
+.viewMoreButton {
+  @apply h-[22px] mt-[12px];
+  @apply flex flex-row items-center;
+  @apply cursor-pointer;
+}
+
+.viewMoreText {
+  font-size: 16px;
+  font-style: normal;
+  line-height: normal;
+  @apply mr-[4px];
+}

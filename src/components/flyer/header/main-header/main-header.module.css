@@ -1,0 +1,75 @@
+.wrapper {
+  width: 100%;
+  top: 0;
+  left: 0;
+  transition: transform 0.3s ease;
+  transform: translateY(0);
+  height: 57px;
+  padding: 10px 0;
+}
+.headerTop {
+  display: flex;
+  width: 100%;
+  padding: 0 16px;
+  gap: 11px;
+  justify-content: space-between;
+}
+.logoContainer {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  height: 100px;
+  max-width: calc(100vw - 195px);
+  max-height: 30px;
+  width: auto;
+}
+.retailerLocation {
+  display: flex !important;
+}
+
+.retailerLocationMobile {
+  display: none !important;
+}
+
+@media (max-width: 767px) {
+  .wrapper {
+    height: 100px;
+  }
+  .headerTop {
+    flex-direction: column;
+    padding: 0 10px;
+    gap: 0;
+
+    /*     margin-bottom: 7px;
+ */
+  }
+  .headerTop::before {
+    content: "";
+    width: 25px;
+    height: 33.5px;
+    pointer-events: none;
+    background-image: linear-gradient(270deg, transparent 0%, transparent 33%);
+    /* Sostituisci #colore_sfondo con il colore desiderato o usa una variabile CSS se appropriato */
+    position: absolute;
+    top: -2px;
+    left: -1px;
+    z-index: 1;
+  }
+  .retailerLocation {
+    display: none !important;
+  }
+  .retailerLocationMobile {
+    display: flex !important;
+  }
+
+  .logoContainer {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  .logo {
+    margin-left: 10px;
+    height: 100%;
+  }
+}

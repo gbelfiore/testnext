@@ -1,0 +1,14 @@
+.closeButton {
+  @apply pointer-events-auto opacity-100;
+  @apply absolute z-[111];
+  @apply right-[13px] top-[22px] h-[36px] w-[36px] p-0;
+  @apply rounded-[50%] border-none;
+  @apply transition-opacity;
+  @apply shadow;
+  @apply cursor-pointer;
+  @apply flex flex-row items-center justify-center;
+}
+
+.closeButtonDisabled {
+  @apply pointer-events-none opacity-0;
+}

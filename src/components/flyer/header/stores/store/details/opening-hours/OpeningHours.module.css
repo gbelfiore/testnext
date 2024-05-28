@@ -1,0 +1,39 @@
+.openingHoursContent {
+  @apply flex w-full flex-row flex-wrap items-center border-b-[1px] px-[0] py-[20px];
+}
+
+.openingHoursContentHeader {
+  @apply flex w-full flex-row items-center gap-[10px];
+}
+
+.openingHoursContentIcon {
+  @apply inline-block h-[15px] w-[15px];
+}
+
+.openState {
+  @apply mr-[20px] rounded-[10px] px-[10px] py-[5px] uppercase;
+}
+
+.tableOpeningHours {
+  @apply mt-[20px] flex w-full flex-col;
+}
+
+.today {
+  @apply bg-[rgba(255,255,255,0.3)];
+}
+
+.tableOpeningHoursItem {
+  @apply flex w-full flex-row items-center p-[5px];
+}
+
+.tableOpeningHoursItemDay {
+  @apply w-2/5;
+}
+
+.tableOpeningHoursItemHours {
+  @apply w-3/5;
+}
+
+.tableOpeningHoursItemHoursItem {
+  @apply mx-[0] my-[5px] w-full;
+}

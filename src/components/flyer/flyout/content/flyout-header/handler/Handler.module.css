@@ -1,0 +1,9 @@
+.handler {
+  border: none;
+  text-align: center;
+  background-color: transparent;
+  -webkit-tap-highlight-color: transparent;
+
+  @apply w-[40px] h-[40px];
+  @apply flex justify-center items-center;
+}

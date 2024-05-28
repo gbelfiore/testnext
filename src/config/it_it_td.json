@@ -1,0 +1,62 @@
+{
+  "LANG": "it",
+  "REACT_APP_SCHEMA_ENDPOINT": "https://environments-it.dacnl39nyabtl.amplifyapp.com",
+  "MONGODB_URI": "mongodb://retailtechbackoffice:dIdqA22zy0@54.195.84.208:27077/retailtech?authMechanism=DEFAULT&authSource=retailtech",
+  "SHOPFULLY": {
+    "FLYER_STORES_URL": "https://api-admin.shopfully.cloud/v1/ita/flyers/[id]/stores.json",
+    "STORE_OPENING_HOURS_URL": "https://api-admin.shopfully.cloud/v1/ita/flyers/[id]/stores/count.json",
+    "FLAYERS_API_KEY": "5ee9caf6-2770-4b43-b4b4-03b8a3e73f93",
+    "USERNAME": "diside",
+    "PASSWORD": "c6qrwZGZYyBXrQUm"
+  },
+  "COOKIE_POLICY": {
+    "PROVIDER": "oneTrust",
+    "ONETRUST": {
+      "SITE_ID": "51bbb53d-3827-475c-9a7e-dd4299a72e35"
+    },
+    "IUBENDA": {
+      "SITE_ID": 3046833,
+      "COOKIE_POLICY_ID": 58944980,
+      "LANG": "it",
+      "CONTENT": "<div class='iubenda-content-text-wrapper'><strong>La tua privacy è importante per noi.</strong></br></br>Utilizziamo nel nostro sito cookie tecnici e, con alcuni partner selezionati e previo tuo consenso, anche cookie di profilazione, per effettuare analisi sul tuo comportamento e fornirti contenuti in linea con le tue preferenze. Cliccando su “Accetta tutto” dai il consenso e puoi visualizzare contenuti e annunci pubblicitari attinenti ai tuoi interessi. In ogni momento puoi specificare le tue preferenze cliccando su “Gestisci opzioni”. Se chiudi questo banner continui la navigazione senza che vengano installati cookie di profilazione, ma il contenuto del sito e gli annunci pubblicitari riguarderanno argomenti generici non in linea con i tuoi interessi. Per maggiori informazioni visita la nostra <a target=\"_blank\" href=https://business.tiendeo.com/it/legal-notice/ class=\"iubenda-privacy-policy-link\">Privacy Policy</a> e <a target=\"_blank\" href=https://www.iubenda.com/privacy-policy/58944980/cookie-policy class=\"iubenda-privacy-policy-link\">Cookie Policy</a>.</div>",
+      "CUSTOMIZE_BUTTON_CAPTION": "Gestisci opzioni",
+      "ACCEPT_BUTTON_CAPTION": "Accetta tutto",
+      "COOKIE_POLICY_LINK_CAPTION": "Cookie Policy",
+      "CLOSE_BUTTON_CAPTION": "Continua senza accettare"
+    }
+  },
+  "FACEBOOK": {
+    "ID": "530194590435381",
+    "COUNTRY": "it"
+  },
+  "SHOPPING_LIST": {
+    "DEEP_LINK": "ti://www.shopfully.com/_actions/contentmemo",
+    "ENABLED": true
+  },
+  "TIENDEO_EN_PROPERTY_ID": "",
+  "ENVIRONMENT": "PROD-IT-TD",
+  "HOTJAR": {
+    "ID": 3682808
+  },
+  "TRACKING": {
+    "ENDPOINT": "https://log-tiendeo.shopfully.cloud",
+    "ENDPOINT_TIENDEO_EN": "https://log-tiendeo-en.shopfully.cloud",
+    "TOKEN": "xvxC4SDR1yu9z0xJDdEDmVgDEx5Z6n2y",
+    "TOKEN_TIENDEO_EN": "ue4Kf52FY9K29oR4UUkrYQe2QW10cHTv"
+  },
+  "ENABLE_WEBP": true,
+  "SHARE": {
+    "LANG": "it"
+  },
+  "ADV": {
+    "ENABLED": false
+  },
+  "SEARCH": {
+    "URL": "https://w8fb4bcyxe.execute-api.eu-west-1.amazonaws.com/stg//v1/it_it/flyers/{{FLYER_ID}}/flyer_gibs.json",
+    "API_KEY": "5dd2c795-4408-4457-8767-45190a652f6d"
+  },
+  "GOOGLE_ADS": {
+    "CONVERSION_ID": "AW-812326464",
+    "CONVERSION_LABEL": "z-2mCNS7kogBEMC8rIMD"
+  }
+}

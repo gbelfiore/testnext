@@ -1,0 +1,24 @@
+.storeItem {
+  @apply relative  flex flex-col;
+  @apply not-italic text-[#fff];
+  @apply mx-0 mb-[30px] mt-[12px];
+  @apply bg-[1px_center] bg-no-repeat [background-size:19px];
+}
+
+.storeItemIcon {
+  @apply inline-block h-[12px] w-[8px] bg-no-repeat;
+  @apply absolute right-[10px] top-[12px];
+  @apply transition duration-75 ease-in-out;
+}
+
+.storeItemIconOpen {
+  @apply rotate-180;
+}
+
+.storeItemContent {
+  @apply relative flex w-full cursor-pointer flex-row items-center pl-[40px];
+}
+
+.storeItemContentIcon {
+  @apply absolute left-0 top-[15px] block h-[28px] w-[28px] -translate-y-1/2 rounded-[50%] bg-[#FFF] bg-center bg-no-repeat [background-size:20px];
+}

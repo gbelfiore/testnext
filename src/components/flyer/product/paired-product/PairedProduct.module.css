@@ -1,0 +1,21 @@
+.wrapper {
+  @apply flex h-full flex-row;
+}
+
+.wrapperBgImg {
+  @apply flex flex-1 p-[8px];
+}
+
+.bgImg {
+  @apply flex-1 object-contain;
+}
+
+.textWrapper {
+  @apply flex flex-[2px] flex-col content-center justify-center p-2;
+}
+
+.text {
+  @apply block overflow-hidden;
+  @apply line-clamp-3;
+  @apply break-words;
+}

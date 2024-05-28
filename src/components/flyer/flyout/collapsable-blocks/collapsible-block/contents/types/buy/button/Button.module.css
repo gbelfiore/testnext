@@ -1,0 +1,23 @@
+/* Button */
+.button {
+  border-radius: 8px;
+  border: none;
+  padding: 12px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  cursor: pointer;
+  /* marginBottom: 8px; */
+  opacity: 1;
+  transition: opacity 0.2s ease-in-out;
+  line-height: normal;
+}
+
+.button:last-child {
+  margin-bottom: 0;
+}
+
+.button img {
+  margin-right: 8px;
+}

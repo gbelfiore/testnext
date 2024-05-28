@@ -1,0 +1,7 @@
+.sliderDots {
+  @apply mx-0 my-[17px] w-full list-none p-0 text-center;
+}
+
+.sliderDot {
+  @apply mx-0.5 my-0 inline-block h-1 w-10 rounded-[25px] transition-[background-color] duration-[0.2s] ease-[ease];
+}

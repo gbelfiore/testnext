@@ -1,0 +1,22 @@
+.buttonLink {
+  border-radius: 8px;
+  border: none;
+  padding: 12px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  cursor: pointer;
+  /* marginBottom: 8px; */
+  opacity: 1;
+  transition: opacity 0.2s ease-in-out;
+  line-height: normal;
+}
+
+.buttonLink:last-child {
+  margin-bottom: 0;
+}
+
+.buttonLink img {
+  margin-right: 5.624px;
+}

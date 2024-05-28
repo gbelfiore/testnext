@@ -1,0 +1,11 @@
+.headline {
+  font-size: 14px;
+  font-style: normal;
+  line-height: normal;
+  @apply mb-[8px];
+  text-transform: lowercase;
+}
+
+.headline::first-letter {
+  text-transform: uppercase;
+}

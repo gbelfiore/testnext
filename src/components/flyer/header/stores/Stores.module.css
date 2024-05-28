@@ -1,0 +1,10 @@
+.list {
+  flex-basis: calc(100% - 350px);
+  overflow-y: scroll;
+}
+
+@media (max-width: 767px) {
+  .list {
+    flex-basis: calc(100% - 230px);
+  }
+}

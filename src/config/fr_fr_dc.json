@@ -1,0 +1,62 @@
+{
+  "LANG": "fr",
+  "REACT_APP_SCHEMA_ENDPOINT": "https://environments-fr.dacnl39nyabtl.amplifyapp.com",
+  "MONGODB_URI": "mongodb://retailtechbackoffice:dIdqA22zy0@54.195.84.208:27077/retailtech-fr?authMechanism=DEFAULT&authSource=retailtech-fr",
+  "SHOPFULLY": {
+    "FLYER_STORES_URL": "https://d1h08qwp2t1dnu.cloudfront.net/v1/fr_fr/flyers/[id]/stores.json",
+    "STORE_OPENING_HOURS_URL": "https://api-admin.shopfully.cloud/v1/fr_fr/flyers/[id]/stores/count.json",
+    "FLAYERS_API_KEY": "2e44e70b-2c17-4abf-8443-685e6eb5a48e",
+    "USERNAME": "diside",
+    "PASSWORD": "c6qrwZGZYyBXrQUm"
+  },
+  "COOKIE_POLICY": {
+    "PROVIDER": "oneTrust",
+    "ONETRUST": {
+      "SITE_ID": "3f1e2656-854c-40bc-a6b2-53bdcde8b30d"
+    },
+    "IUBENDA": {
+      "SITE_ID": 502987,
+      "COOKIE_POLICY_ID": 7801609,
+      "LANG": "fr",
+      "CONTENT": "<div class='iubenda-content-text-wrapper'><b>Votre vie privée est importante pour nous.</b></br></br>Nous utilisons des cookies techniques sur notre site Web et, avec certains partenaires sélectionnés et soumis à votre consentement, ainsi que des cookies de profilage, pour effectuer une analyse sur votre comportement et vous fournir du contenu conformément à vos préférences. En cliquant sur \"Accepter tout\" vous donnez votre consentement et vous pouvez visualiser le contenu et les publicités liées à vos intérêts. À tout moment, vous pouvez spécifier vos préférences en cliquant sur \"Gérer les options\". Si vous fermez cette bannière, vous continuez à naviguer sans installer les cookies de profilage, mais le contenu du site et les publicités couvriront des sujets génériques qui ne correspondent pas à vos intérêts. Pour plus d’informations, visitez notre <a href=\"/politique-de-confidentialite\" class=\"iubenda-privacy-policy-link\">politique de confidentialité</a> et notre %{cookie_policy_link}.</div>",
+      "CUSTOMIZE_BUTTON_CAPTION": "Gérer les options",
+      "ACCEPT_BUTTON_CAPTION": "Accepter tou",
+      "COOKIE_POLICY_LINK_CAPTION": "politique de cookie",
+      "CLOSE_BUTTON_CAPTION": "Continuer sans accepter"
+    }
+  },
+  "FACEBOOK": {
+    "ID": "887157384736709",
+    "COUNTRY": "fr"
+  },
+  "SHOPPING_LIST": {
+    "DEEP_LINK": "dvc://www.shopfully.fr/_actions/contentmemo",
+    "ENABLED": true
+  },
+  "TIENDEO_EN_PROPERTY_ID": "",
+  "ENVIRONMENT": "PROD-FR-DC",
+  "HOTJAR": {
+    "ID": 3682808
+  },
+  "TRACKING": {
+    "ENDPOINT": "https://log.shopfully.cloud",
+    "ENDPOINT_TIENDEO_EN": "",
+    "TOKEN": "MzF72DJ9Rg8JKRpBjxg6wNSsCkGp2ch8",
+    "TOKEN_TIENDEO_EN": ""
+  },
+  "ENABLE_WEBP": true,
+  "SHARE": {
+    "LANG": "fr"
+  },
+  "ADV": {
+    "ENABLED": false
+  },
+  "SEARCH": {
+    "URL": "https://w8fb4bcyxe.execute-api.eu-west-1.amazonaws.com/stg//v1/it_it/flyers/{{FLYER_ID}}/flyer_gibs.json",
+    "API_KEY": "5dd2c795-4408-4457-8767-45190a652f6d"
+  },
+  "GOOGLE_ADS": {
+    "CONVERSION_ID": "AW-812326464",
+    "CONVERSION_LABEL": "z-2mCNS7kogBEMC8rIMD"
+  }
+}

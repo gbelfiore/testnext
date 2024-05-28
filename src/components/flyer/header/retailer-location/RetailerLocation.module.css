@@ -1,0 +1,17 @@
+.retailerLocation {
+  @apply flex;
+  @apply box-border cursor-pointer items-center text-right;
+}
+
+.distanceStore {
+  @apply rounded-[10px] px-[10px] py-[2px];
+  @apply flex flex-row items-center;
+}
+
+.distanceStoreContent {
+  @apply ml-[10px] block flex-shrink-0 flex-grow text-right;
+}
+
+.distanceStoreIcon {
+  @apply inline-block h-[20px] w-[20px] bg-[right_center] bg-no-repeat [background-size:18px];
+}

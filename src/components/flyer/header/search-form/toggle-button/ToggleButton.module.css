@@ -1,0 +1,8 @@
+.toggleButton {
+  @apply ml-[12px] h-[35px] w-[35px] flex-grow-0 p-0;
+  @apply border-[none] bg-transparent  bg-[11px_center] bg-no-repeat text-transparent [background-size:8px_12px];
+}
+
+.toggleButtonStores {
+  @apply ml-0 w-[20px] cursor-pointer bg-[0px_center];
+}

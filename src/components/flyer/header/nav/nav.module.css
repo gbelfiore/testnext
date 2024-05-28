@@ -1,0 +1,27 @@
+.navContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: calc(100% - 63px);
+  position: relative;
+}
+.navContainerShadow {
+  content: '';
+  width: 25px;
+  height: 100%;
+  pointer-events: none;
+
+  position: absolute;
+  top: 0px;
+  right: -1px;
+  z-index: 1;
+}
+.chipContainer {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  position: relative;
+  overflow: auto;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+}

@@ -1,0 +1,7 @@
+.flyoutBody {
+  position: relative; /* used in JS */
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 0 12px 12px;
+}

@@ -1,0 +1,4 @@
+.productSubName {
+  @apply box-border block w-full overflow-hidden pr-2;
+  @apply line-clamp-3 break-words;
+}

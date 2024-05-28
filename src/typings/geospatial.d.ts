@@ -1,0 +1,1 @@
+export type IPointGeo = { x: number; y: number };

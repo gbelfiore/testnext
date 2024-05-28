@@ -1,0 +1,5 @@
+.sliderWrapper {
+  @apply relative mx-px mb-0 mt-[15px] w-full whitespace-nowrap rounded-[7px];
+  overflow: scroll hidden;
+  scroll-snap-type: x mandatory;
+}

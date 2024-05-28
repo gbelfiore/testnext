@@ -1,0 +1,24 @@
+.address {
+  @apply relative flex w-full flex-row items-center border-b-[1px] py-[20px] pl-[35px] pr-[0];
+}
+
+.addressIcon {
+  @apply absolute left-[10px] inline-block h-[15px] w-[15px];
+}
+
+.contain {
+  @apply mx-0 my-[15px] mb-[30px] flex w-full flex-col;
+}
+
+.console {
+  @apply flex w-full flex-row border-b-[1px] pb-[20px];
+}
+
+.chip {
+  @apply flex flex-row justify-center;
+  @apply mr-2.5 cursor-pointer rounded-[25px] border border-solid p-2.5 text-center;
+}
+
+.chipIcon {
+  @apply mr-2.5 inline-block h-[15px] w-[15px];
+}

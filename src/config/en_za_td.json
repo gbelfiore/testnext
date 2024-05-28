@@ -1,0 +1,62 @@
+{
+  "LANG": "en",
+  "REACT_APP_SCHEMA_ENDPOINT": "",
+  "MONGODB_URI": "mongodb://retailtechbackoffice:dIdqA22zy0@54.195.84.208:27077/retailtech-au?authMechanism=DEFAULT&authSource=retailtech-au",
+  "SHOPFULLY": {
+    "FLYER_STORES_URL": "https://api-admin.shopfully.cloud/v1/en_au/flyers/[id]/stores.json",
+    "STORE_OPENING_HOURS_URL": "https://api-admin.shopfully.cloud/v1/en_au/flyers/[id]/stores/count.json",
+    "FLAYERS_API_KEY": "5ece118d-277c-4961-a8e9-6fbca3e73f93",
+    "USERNAME": "diside",
+    "PASSWORD": "c6qrwZGZYyBXrQUm"
+  },
+  "COOKIE_POLICY": {
+    "PROVIDER": "oneTrust",
+    "ONETRUST": {
+      "SITE_ID": "daf8e956-904f-4af5-9ef3-64e3a0af4140"
+    },
+    "IUBENDA": {
+      "SITE_ID": 3122858,
+      "COOKIE_POLICY_ID": 33820659,
+      "LANG": "en",
+      "CONTENT": "<div class='iubenda-content-text-wrapper'><strong>Your privacy is important to us.</strong></br></br> We use technical cookies on our site. With some selected partners and with your prior consent, we also use profiling cookies, to analyze your behavior and to provide you content in line with your preferences. By clicking on \"Accept all\" you give your consent and you can view content and advertisements relevant to your interests. You can choose your preferences by clicking on \"Manage options\". If you close this banner, you continue browsing without profiling cookies being installed, but the content of the site and the advertisements within will be generic and not in line with your interests. For more information visit our <a target=\"_blank\" href=https://business.tiendeo.com/en/legal-notice/ class=\"iubenda-privacy-policy-link\">Privacy Policy</a> and <a target=\"_blank\" href=https://www.iubenda.com/privacy-policy/33820659/cookie-policy class=\"iubenda-privacy-policy-link\">Cookie Policy</a>.</div>",
+      "CUSTOMIZE_BUTTON_CAPTION": "Manage options",
+      "ACCEPT_BUTTON_CAPTION": "Accept all",
+      "COOKIE_POLICY_LINK_CAPTION": "Cookie Policy",
+      "CLOSE_BUTTON_CAPTION": "Proceed without accepting"
+    }
+  },
+  "FACEBOOK": {
+    "ID": "1494568314088738",
+    "COUNTRY": "za"
+  },
+  "SHOPPING_LIST": {
+    "DEEP_LINK": "dvc://www.tiendeo.co.za/_actions/contentmemo",
+    "ENABLED": true
+  },
+  "TIENDEO_EN_PROPERTY_ID": "",
+  "ENVIRONMENT": "PROD-ZA-TD",
+  "HOTJAR": {
+    "ID": 3682808
+  },
+  "TRACKING": {
+    "ENDPOINT": "https://log.shopfully.cloud",
+    "ENDPOINT_TIENDEO_EN": "https://log-tiendeo-en.shopfully.cloud",
+    "TOKEN": "MzF72DJ9Rg8JKRpBjxg6wNSsCkGp2ch8",
+    "TOKEN_TIENDEO_EN": "ue4Kf52FY9K29oR4UUkrYQe2QW10cHTv"
+  },
+  "ENABLE_WEBP": true,
+  "SHARE": {
+    "LANG": "en"
+  },
+  "ADV": {
+    "ENABLED": false
+  },
+  "SEARCH": {
+    "URL": "https://w8fb4bcyxe.execute-api.eu-west-1.amazonaws.com/stg//v1/it_it/flyers/{{FLYER_ID}}/flyer_gibs.json",
+    "API_KEY": "5dd2c795-4408-4457-8767-45190a652f6d"
+  },
+  "GOOGLE_ADS": {
+    "CONVERSION_ID": "AW-812326464",
+    "CONVERSION_LABEL": "z-2mCNS7kogBEMC8rIMD"
+  }
+}

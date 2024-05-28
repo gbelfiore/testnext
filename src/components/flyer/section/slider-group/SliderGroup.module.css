@@ -1,0 +1,3 @@
+.sliderGroup {
+  @apply inline-flex w-full snap-start flex-wrap items-stretch whitespace-normal;
+}

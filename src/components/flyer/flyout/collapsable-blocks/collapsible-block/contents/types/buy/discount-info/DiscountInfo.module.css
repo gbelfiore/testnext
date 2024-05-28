@@ -1,0 +1,7 @@
+.discountInfo {
+  border-radius: 4px 4px 0px 0px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  background-color: #fff;
+}

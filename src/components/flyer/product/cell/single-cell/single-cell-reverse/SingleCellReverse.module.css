@@ -1,0 +1,55 @@
+.singleCellReverse {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+  justify-content: space-between;
+}
+
+.variants {
+  height: 32px;
+  width: 100%;
+}
+
+.image {
+  width: 100%;
+  height: 155px;
+  /* max-height: 155px; */
+  flex-grow: 1;
+}
+
+.imageWithVariant {
+  width: 100%;
+  height: calc(155px - 32px);
+}
+
+.info {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 96px;
+  margin: 6px 0;
+}
+
+.description {
+  min-width: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.price {
+  min-width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+  flex-grow: 1;
+}
+
+.paired {
+  width: 100%;
+  height: 47px;
+}

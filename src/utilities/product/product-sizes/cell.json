@@ -1,0 +1,47 @@
+{
+  "reverse": {
+    "height": 300,
+    "subNameHeight": 40,
+    "variantsHeight": 35
+  },
+  "img_squared_pb_vertical": {
+    "height": 300,
+    "subNameHeight": 40,
+    "variantsHeight": 35
+  },
+  "img_squared_pb_horizontal": {
+    "height": 300,
+    "subNameHeight": 40,
+    "variantsHeight": 35
+  },
+  "img_rectangular_pb_vertical": {
+    "height": 350,
+    "subNameHeight": 40,
+    "variantsHeight": 35
+  },
+  "img_rectangular_pb_horizontal": {
+    "height": 350,
+    "subNameHeight": 40,
+    "variantsHeight": 35
+  },
+  "img_squared_pb_vertical_over": {
+    "height": 280,
+    "subNameHeight": 40,
+    "variantsHeight": 35
+  },
+  "img_squared_pb_horizontal_over": {
+    "height": 280,
+    "subNameHeight": 60,
+    "variantsHeight": 35
+  },
+  "img_rectangular_pb_horizontal_over": {
+    "height": 280,
+    "subNameHeight": 40,
+    "variantsHeight": 35
+  },
+  "img_rectangular_pb_vertical_over": {
+    "height": 280,
+    "subNameHeight": 40,
+    "variantsHeight": 35
+  }
+}

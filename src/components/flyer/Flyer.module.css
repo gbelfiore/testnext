@@ -1,0 +1,31 @@
+.main {
+  width: 100%;
+  height: calc(100vh - 57px);
+  overflow: auto;
+  transition: all 0.3s linear;
+  /* padding-top: 100px; */
+  /* max-width: 758px; */
+  /* margin: 0 auto; */
+  /* contain: strict; */
+  /* boxShadow: withShadows ? "0px 0px 10px" : "none", */
+}
+
+.mainContent {
+  width: 100%;
+  max-width: 758px;
+  margin: 0 auto;
+  position: relative;
+}
+
+@media (max-width: 767px) {
+  .main {
+    width: 100%;
+    height: calc(100vh - 100px);
+    overflow: auto;
+    /* padding-top: 100px; */
+    /* max-width: 758px; */
+    /* margin: 0 auto; */
+    /* contain: strict; */
+    /* boxShadow: withShadows ? "0px 0px 10px" : "none", */
+  }
+}

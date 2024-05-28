@@ -1,0 +1,9 @@
+.header {
+  @apply flex flex-row items-center;
+  @apply gap-[8px];
+  @apply px-[16px];
+}
+
+.brand {
+  @apply flex-1;
+}

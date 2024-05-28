@@ -1,0 +1,106 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Style for react-slick */
+.slick-list {
+  height: 100%;
+}
+
+.slick-track {
+  height: 100%;
+}
+
+.slick-slide {
+  height: 100%;
+}
+
+.slick-slide > div {
+  height: 100%;
+}
+
+.product-variant-selector .slick-slide > div {
+  padding-right: 16px;
+}
+
+/* @media (max-width: 767px) {
+  .product-variant-selector .slick-slide > div {
+    padding: 8px 8px;
+  }
+}
+ */
+
+
+
+* {
+  user-select: none;
+  -ms-overflow-style: none /* IE and Edge */;
+  scrollbar-width: none /* Firefox */;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  overflow-x: hidden;
+  width: 100vw;
+  height: 100vh;
+}
+
+body.isBackoffice {
+  width: unset;
+  height: unset;
+}
+
+#store-announcement {
+  min-height: 100vh;
+}
+
+#store-announcement > iframe {
+  pointer-events: none;
+}
+
+[data-rsbs-overlay] {
+  z-index: 100!important;
+  left: 8px!important;
+  right: 8px!important;
+}
+
+[data-rsbs-footer], [data-rsbs-header] {
+  padding: 0px!important;
+}
+[data-rsbs-footer] {
+  overflow: inherit!important;
+}
+[data-rsbs-header] {
+  box-shadow: none!important;
+}
+[data-rsbs-header]:before {
+  display: none!important;
+}
+
+.prevent-scroll {
+  overflow: hidden!important;
+}
+#shareAPIPolyfill-container .shareAPIPolyfill-icons-container.title .tool-icon {
+  flex: 0 0 50%;
+}
+#shareAPIPolyfill-container .shareAPIPolyfill-icons-container.body .tool-icon {
+  flex: 1;
+}
+
+/* BEGGIN CLASS_NAME_FLYOUT_FONTS */
+.flyout-font-400 {
+  font-family: "Nunito", sans-serif;
+  font-weight: 400;
+}
+.flyout-font-700 {
+  font-family: "Nunito", sans-serif;
+  font-weight: 700;
+}
+.flyout-font-800 {
+  font-family: "Nunito", sans-serif;
+  font-weight: 800;
+}
+/* END CLASS_NAME_FLYOUT_FONTS */

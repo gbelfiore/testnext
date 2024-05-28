@@ -1,0 +1,11 @@
+.contents {
+  margin: 0;
+  overflow: hidden;
+  transition: height .3s ease, margin-bottom .3s ease;
+}
+
+.contentsDetailText {
+  font-size: 12px;
+  font-style: normal;
+  line-height: 16px;
+}

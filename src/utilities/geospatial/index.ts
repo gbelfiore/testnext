@@ -1,0 +1,1 @@
+export { NearestPoint } from './nearest-point';

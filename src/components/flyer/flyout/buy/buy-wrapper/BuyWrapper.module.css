@@ -1,0 +1,6 @@
+.buyWrapper {
+  clear: both;
+  display: flex;
+  align-items: flex-end;
+  position: relative;
+}

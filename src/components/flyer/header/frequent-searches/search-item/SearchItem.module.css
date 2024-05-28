@@ -1,0 +1,6 @@
+.searchItem {
+  @apply not-italic;
+  @apply text-white;
+  @apply mx-[12px] my-0 p-[27px];
+  @apply bg-[3px_center] bg-no-repeat [background-size:15px];
+}

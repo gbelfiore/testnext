@@ -1,0 +1,4 @@
+.toggleSearchButton {
+  @apply h-[35px] w-[63px];
+  @apply cursor-pointer overflow-hidden border-[none] bg-transparent bg-[length:23px] bg-[center_center] bg-no-repeat p-0 text-transparent;
+}

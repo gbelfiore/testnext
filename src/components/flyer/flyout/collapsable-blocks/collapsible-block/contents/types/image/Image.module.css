@@ -1,0 +1,4 @@
+.image {
+  @apply p-[12px] w-full;
+  object-fit: contain;
+}

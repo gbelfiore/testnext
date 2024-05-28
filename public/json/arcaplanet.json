@@ -1,0 +1,1302 @@
+{
+  "value": {
+    "_id": "656f5e41b2c34c26dd674e68",
+    "dateFrom": "2023-12-06T00:00:00+00:00",
+    "dateTo": "2023-12-31T00:00:00+00:00",
+    "colophon": "ARCAPLANET.IT",
+    "coverImage": "assets/pixel_space.png?w=768&h=1&ar=768",
+    "backcoverImage": "assets/pixel_space.png?w=768&h=1&ar=768",
+    "sections": [
+      {
+        "name": "",
+        "products": [
+          {
+            "name": "NATURAL TRAINER SENSITIVE NO GLUTEN KG 12",
+            "description": "",
+            "price": {
+              "full": "63,99€",
+              "discount": "30%",
+              "discounted": "44,79€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "subName": "CROCCHETTE CANE ADULT MEDIUM/MAXI AGNELLO - MAIALE",
+            "available": false,
+            "highlights": [],
+            "selectedBadge": "promo-arcacard",
+            "categoryId": 13355,
+            "position": 0,
+            "modifier": "cell",
+            "productImage": "assets/Naturaltrainercanecroccantini.png?w=138&h=300&ar=0.46",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 11:08:23",
+              "update": "12/12/2023, 10:19:10"
+            },
+            "unitType": " ",
+            "backgroundImage": "assets/background_tondo_marrone_01.png?w=768&h=1240&ar=0.6193548387096774",
+            "id": "65bb895d-30d8-473f-bcc8-4575ac1f3abc"
+          },
+          {
+            "name": "GOURMET GOLD GR 85",
+            "description": "",
+            "price": {
+              "full": "0,69€",
+              "discount": "20%",
+              "discounted": "0,55€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "textCustom1": "12 PEZZI"
+            },
+            "subName": "LATTINA GATTO TUTTI I TIPI",
+            "productImage": "assets/purinagourmetcibogattoa.png?w=300&h=300&ar=1",
+            "available": false,
+            "highlights": [],
+            "selectedBadge": "promo-arcacard",
+            "unitType": "cad.",
+            "categoryId": 13353,
+            "position": 1,
+            "modifier": "cell",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 11:10:39",
+              "update": "12/12/2023, 10:19:20"
+            },
+            "backgroundImage": "assets/background_tondo_marrone_01.png?w=768&h=1240&ar=0.6193548387096774",
+            "id": "65bb895e-f9b4-4177-87df-2af1ac1f5aa6"
+          },
+          {
+            "name": "HI PORK KG 10",
+            "description": "",
+            "price": {
+              "full": "64,99€",
+              "discount": "15%",
+              "discounted": "55,24€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "textCustom1": "1 PEZZO"
+            },
+            "subName": "CROCCHETTE CANE TUTTI I TIPI",
+            "productImage": "assets/hiporkcrocchettecane2.png?w=157&h=300&ar=0.5233333333333333",
+            "available": false,
+            "highlights": [],
+            "categoryId": 13355,
+            "position": 2,
+            "modifier": "cell",
+            "unitType": " ",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 11:24:59",
+              "update": "12/12/2023, 10:19:32"
+            },
+            "backgroundImage": "assets/background_tondo_bianco_01.png?w=768&h=1240&ar=0.6193548387096774",
+            "id": "65bb895e-d544-46b5-9108-2af1ac1f5aa6"
+          },
+          {
+            "name": "HI PORK KG 10",
+            "description": "",
+            "price": {
+              "full": "64,99€",
+              "discount": "30%",
+              "discounted": "45,49€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagWidth": 100,
+              "textCustom1": "2 PEZZI O PIÙ"
+            },
+            "subName": "CROCCHETTE CANE TUTTI I TIPI",
+            "productImage": "assets/hiporkcrocchettecane3.png?w=157&h=300&ar=0.5233333333333333",
+            "available": false,
+            "highlights": [],
+            "categoryId": 13355,
+            "position": 3,
+            "modifier": "cell",
+            "unitType": "cad.",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 11:25:46",
+              "update": "12/12/2023, 10:20:02"
+            },
+            "backgroundImage": "assets/background_tondo_bianco_01.png?w=768&h=1240&ar=0.6193548387096774",
+            "id": "65bb895e-fc6c-4e28-9e95-2af1ac1f5aa6"
+          }
+        ],
+        "id": "1701861934522",
+        "header": {
+          "type": "image",
+          "props": {
+            "src": "assets/COVERARCAPLANET12_2024_new_okok.jpg?w=768&h=463&ar=1.6587473002159827"
+          }
+        },
+        "timing": {
+          "create": "6/12/2023, 10:38:04",
+          "update": "12/12/2023, 17:50:36"
+        },
+        "footer": null
+      },
+      {
+        "name": "ALIMENTAZIONE CANE",
+        "products": [
+          {
+            "name": "VIRTUS ONLY FRESH CROCCHETTE CANE",
+            "description": "",
+            "price": {
+              "full": "68,99€",
+              "discount": "10€",
+              "discounted": "58,99€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "subName": "KG 7,5 TUTTI I TIPI",
+            "productImage": "assets/4b33a8c46f8602eea9597318db8fd406.png?w=160&h=300&ar=0.5333333333333333",
+            "available": false,
+            "highlights": [],
+            "categoryId": 13355,
+            "position": 4,
+            "modifier": "wide",
+            "unitType": "  ",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 11:30:42",
+              "update": "12/12/2023, 17:50:54"
+            },
+            "backgroundColor": "rgba(255, 255, 255, 1)",
+            "backgroundImage": "assets/bg_arca_orizontal_back_ok_new_24_bianco.png?w=768&h=486&ar=1.5802469135802468",
+            "id": "65bb895f-a270-4f61-8975-4a48ac1f3abc"
+          },
+          {
+            "name": "HI PORK CROCCHETTE CANE",
+            "description": "",
+            "price": {
+              "full": "64,99€",
+              "discount": "15%",
+              "discounted": "55,24€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "textCustom1": "1 PEZZO"
+            },
+            "subName": "KG 10 TUTTI I TIPI",
+            "productImage": "assets/6901c2ded89c67b416bd5093549a7a1e.png?w=157&h=300&ar=0.5233333333333333",
+            "available": false,
+            "highlights": [],
+            "categoryId": 13355,
+            "position": 5,
+            "modifier": "cell",
+            "unitType": " ",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 11:31:06",
+              "update": "11/12/2023, 18:03:25"
+            },
+            "backgroundImage": "assets/background_tondo_bianco_01.png?w=768&h=1240&ar=0.6193548387096774",
+            "id": "65bb895f-0d24-4983-9002-4842ac1f3abc"
+          },
+          {
+            "name": "HI PORK  CROCCHETTE CANE",
+            "description": "",
+            "price": {
+              "full": "64,99€",
+              "discount": "30%",
+              "discounted": "45,49€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagWidth": 100,
+              "textCustom1": "2 PEZZI O PIÙ"
+            },
+            "subName": "KG 10 TUTTI I TIPI",
+            "productImage": "assets/6901c2ded89c67b416bd5093549a7a1e.png?w=157&h=300&ar=0.5233333333333333",
+            "available": false,
+            "highlights": [],
+            "categoryId": 13355,
+            "position": 6,
+            "modifier": "cell",
+            "unitType": "cad.",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 11:34:41",
+              "update": "12/12/2023, 17:45:33"
+            },
+            "backgroundImage": "assets/background_tondo_bianco_01.png?w=768&h=1240&ar=0.6193548387096774",
+            "id": "65bb8960-4a38-4905-b7c6-2af2ac1f5aa6"
+          },
+          {
+            "name": "HILL'S SCIENCE PLAN CROCCHETTE CANE",
+            "description": "",
+            "price": {
+              "full": "54,99€",
+              "discount": "10€",
+              "discounted": "44,99€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "subName": "KG 12 ADULT MEDIUM/LARGE POLLO",
+            "productImage": "assets/5eb0d5ade11ec313d6f7d8f09036de87.png?w=173&h=300&ar=0.5766666666666667",
+            "available": false,
+            "highlights": [],
+            "selectedBadge": "promo-arcacard-wide",
+            "categoryId": 13355,
+            "position": 7,
+            "modifier": "wide",
+            "unitType": " ",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 11:33:27",
+              "update": "12/12/2023, 17:53:35"
+            },
+            "backgroundColor": "rgba(255, 255, 255, 0)",
+            "backgroundImage": "assets/bg_arca_orizontal_back_ok_new_24_marrone.png?w=768&h=486&ar=1.5802469135802468",
+            "id": "65bb8960-5020-4544-b3e6-2af1ac1f5aa6"
+          }
+        ],
+        "id": "alimentazione_cane_1701797475091",
+        "footer": {
+          "type": "image",
+          "props": {
+            "src": "assets/BannerBeFortisa.jpg?w=768&h=330&ar=2.327272727272727"
+          }
+        },
+        "timing": {
+          "create": "6/12/2023, 10:39:50",
+          "update": "6/12/2023, 12:27:26"
+        }
+      },
+      {
+        "name": "ALIMENTAZIONE GATTO",
+        "products": [
+          {
+            "name": "HILL'S SCIENCE PLAN CROCCHETTE GATTO",
+            "description": "",
+            "price": {
+              "full": "78,99€",
+              "discount": "20%",
+              "discounted": "62,99€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "subName": "KG 10 ADULT POLLO",
+            "productImage": "assets/036159320ef6d98d1679ee585520d247.png?w=173&h=300&ar=0.5766666666666667",
+            "available": false,
+            "highlights": [],
+            "selectedBadge": "promo-arcacard",
+            "categoryId": 13355,
+            "position": 8,
+            "modifier": "cell",
+            "unitType": " ",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 11:35:08",
+              "update": "11/12/2023, 18:11:14"
+            },
+            "backgroundImage": "assets/background_tondo_marrone_01.png?w=768&h=1240&ar=0.6193548387096774",
+            "id": "65bb8961-3248-4050-8855-2a11ac1f5aa6"
+          },
+          {
+            "name": "NATURAL TRAINER STERILISED CROCCHETTE GATTO",
+            "description": "",
+            "price": {
+              "discount": "15%",
+              "discounted": "28,03€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagWidth": 95,
+              "textCustom1": "1 PZ - 16,49€"
+            },
+            "subName": "KG 1,5 TUTTI I TIPI",
+            "productImage": "assets/2ebe363d9062ff3ed2809d44b74ace51.png?w=192&h=300&ar=0.64",
+            "available": false,
+            "highlights": [],
+            "selectedBadge": "promo-arcacard2-pezzo",
+            "unitType": "2 PEZZI",
+            "categoryId": 13353,
+            "position": 9,
+            "modifier": "cell",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 12:46:02",
+              "update": "11/12/2023, 18:11:30"
+            },
+            "backgroundImage": "assets/background_tondo_marrone_01.png?w=768&h=1240&ar=0.6193548387096774",
+            "id": "65bb8961-1f1c-4d73-a89e-2b87ac1f5aa6"
+          },
+          {
+            "name": "ACANA  CROCCHETTE GATTO",
+            "description": "",
+            "price": {
+              "full": "25,99€",
+              "discount": "5€",
+              "discounted": "20,99€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "subName": "KG 1,8 BOUNTIFUL CATCH - FIRST FEAST - HOMESTEAD HARVEST - INDOOR ENTREE",
+            "productImage": "assets/736c5f59f734c1a28fb9cecce221d13d.png?w=168&h=300&ar=0.56",
+            "available": false,
+            "highlights": [],
+            "selectedBadge": "promo-arcacard",
+            "categoryId": 13353,
+            "position": 10,
+            "modifier": "cell",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "5/12/2023, 18:54:39",
+              "update": "11/12/2023, 18:11:46"
+            },
+            "unitType": " ",
+            "backgroundImage": "assets/background_tondo_marrone_01.png?w=768&h=1240&ar=0.6193548387096774",
+            "id": "65bb8961-3030-43fa-9dce-48c2ac1f3abc"
+          },
+          {
+            "name": "NEXT NATURAL MULTIPACK LATTINA GATTO",
+            "description": "",
+            "price": {
+              "full": "5,79€",
+              "discount": "20%",
+              "discounted": "4,63€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "textCustom2": "se acquisti 4pz o più"
+            },
+            "subName": "GR 50 X 6 PZ TUTTI I TIPI",
+            "productImage": "assets/71417d98e26e8ca84b81344f8143b599.png?w=300&h=135&ar=2.2222222222222223",
+            "available": false,
+            "highlights": [],
+            "categoryId": 13353,
+            "position": 11,
+            "modifier": "cell",
+            "unitType": " ",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 12:27:56",
+              "update": "11/12/2023, 18:11:55"
+            },
+            "backgroundImage": "assets/background_tondo_bianco_01.png?w=768&h=1240&ar=0.6193548387096774",
+            "id": "65bb8962-e4c8-413d-aa8f-49f4ac1f3abc"
+          }
+        ],
+        "id": "alimentazione_gatto_1701797475091"
+      },
+      {
+        "name": "ACQUARIOLOGIA",
+        "products": [
+          {
+            "name": "NEXT ACQUARIOLOGIA",
+            "description": "",
+            "price": {
+              "full": "2,25€",
+              "discount": "20%",
+              "discounted": "1,80€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "textCustom2": "a partire da"
+            },
+            "subName": "TUTTA LA LINEA",
+            "productImage": "assets/b0c6946c4d8d4bbfc2d2447c24e2f3f2.png?w=113&h=300&ar=0.37666666666666665",
+            "available": false,
+            "highlights": [],
+            "categoryId": 13344,
+            "position": 12,
+            "modifier": "cell",
+            "unitType": " ",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 12:28:08",
+              "update": "11/12/2023, 18:12:11"
+            },
+            "backgroundImage": "assets/background_tondo_bianco_01.png?w=768&h=1240&ar=0.6193548387096774",
+            "id": "65bb8963-2cc8-4fb4-b33e-45d1ac1f3abc"
+          },
+          {
+            "name": "MULTIFIT  MANGIME PESCI ROSSI",
+            "description": "",
+            "price": {
+              "full": "3,35€",
+              "discount": "22%",
+              "discounted": "2,59€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "subName": "ML 250",
+            "productImage": "assets/f345ca41e2a6e31ba351859e136caa03bb.png?w=156&h=300&ar=0.52",
+            "available": false,
+            "highlights": [],
+            "categoryId": 13344,
+            "position": 13,
+            "modifier": "cell",
+            "unitType": " ",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 12:28:13",
+              "update": "11/12/2023, 18:12:23"
+            },
+            "backgroundImage": "assets/background_tondo_bianco_01.png?w=768&h=1240&ar=0.6193548387096774",
+            "id": "65bb8963-fa48-43a5-90d6-2b1bac1f5aa6"
+          }
+        ],
+        "id": "acquariologia_1702399940772",
+        "timing": {
+          "create": "6/12/2023, 13:01:23",
+          "update": "12/12/2023, 17:52:22"
+        }
+      },
+      {
+        "id": "piccoli_animali_1702399915158",
+        "name": "PICCOLI ANIMALI",
+        "products": [
+          {
+            "name": "CLIFFI SUPERIOR MIX  CANARINI",
+            "description": "",
+            "price": {
+              "full": "5,35€",
+              "discount": "16%",
+              "discounted": "4,49€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "subName": "KG 1 MANGIME CON BISCOTTO",
+            "productImage": "assets/965a94c3ae3468d4ac0ada65d812fc7c7.png?w=157&h=300&ar=0.5233333333333333",
+            "available": false,
+            "highlights": [],
+            "categoryId": 13344,
+            "position": 14,
+            "modifier": "wide",
+            "unitType": "  ",
+            "backgroundColor": "rgba(255, 255, 255, 1)",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "5/12/2023, 18:55:32",
+              "update": "12/12/2023, 17:52:58"
+            },
+            "backgroundImage": "assets/bg_arca_orizontal_back_ok_new_24_bianco.png?w=768&h=486&ar=1.5802469135802468",
+            "id": "65bb8963-9d20-4797-a202-2b1bac1f5aa6"
+          }
+        ],
+        "timing": {
+          "create": "12/12/2023, 17:51:58",
+          "update": "12/12/2023, 17:51:58"
+        }
+      },
+      {
+        "name": "LETTIERE",
+        "products": [
+          {
+            "name": "PERFECT  LETTIERA  GATTO",
+            "description": "",
+            "price": {
+              "full": "11,49€",
+              "discount": "30%",
+              "discounted": "7,99€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "subName": "LT 6 ECO VEGETALE AGGLOMERANTE",
+            "productImage": "assets/6eddfc0db5cb4a48d51fc19528261a23.png?w=196&h=300&ar=0.6533333333333333",
+            "available": false,
+            "highlights": [],
+            "categoryId": 13368,
+            "position": 15,
+            "modifier": "cell",
+            "unitType": " ",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 12:28:47",
+              "update": "11/12/2023, 18:12:53"
+            },
+            "backgroundImage": "assets/background_tondo_bianco_01.png?w=768&h=1240&ar=0.6193548387096774",
+            "id": "65bb8964-f73c-49c9-af74-29ebac1f5aa6"
+          },
+          {
+            "name": "BIOKAT'S LETTIERA  GATTO",
+            "description": "",
+            "price": {
+              "full": "11,29€",
+              "discount": "20%",
+              "discounted": "9,03€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "subName": "KG 10 BIANCO ATTRACTING",
+            "productImage": "assets/be70c0b303c0fb72ff189bba1df9a1e6.png?w=138&h=300&ar=0.46",
+            "available": false,
+            "highlights": [],
+            "selectedBadge": "promo-arcacard",
+            "categoryId": 13368,
+            "position": 16,
+            "modifier": "cell",
+            "unitType": " ",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 12:28:50",
+              "update": "11/12/2023, 18:13:07"
+            },
+            "backgroundImage": "assets/background_tondo_marrone_01.png?w=768&h=1240&ar=0.6193548387096774",
+            "id": "65bb8965-c624-414b-9e41-482eac1f3abc"
+          },
+          {
+            "name": "LOVEDI'  TOILETTE A SCOMPARSA CUCU",
+            "description": "",
+            "price": {
+              "full": "49,99€",
+              "discount": "40%",
+              "discounted": "29,99€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "subName": "TUTTI I TIPI",
+            "productImage": "assets/67551a8567d935876764080ade4ac472.png?w=300&h=256&ar=1.171875",
+            "available": false,
+            "highlights": [],
+            "categoryId": 13359,
+            "position": 17,
+            "modifier": "cell",
+            "unitType": " ",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 12:28:58",
+              "update": "11/12/2023, 18:13:27"
+            },
+            "backgroundImage": "assets/background_tondo_bianco_01.png?w=768&h=1240&ar=0.6193548387096774",
+            "id": "65bb8965-1604-423c-8031-4709ac1f3abc"
+          },
+          {
+            "name": "PERFECT  HYGIENE DEODORANTE LETTIERA",
+            "description": "",
+            "price": {
+              "full": "5,99€",
+              "discount": "30%",
+              "discounted": "4,19€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ","
+            },
+            "subName": "TUTTI I TIPI",
+            "productImage": "assets/c4011830e841ed90da205dc8ca2c2f8f.png?w=138&h=300&ar=0.46",
+            "available": false,
+            "highlights": [],
+            "categoryId": 13368,
+            "position": 18,
+            "modifier": "cell",
+            "unitType": "  ",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 12:29:01",
+              "update": "11/12/2023, 18:13:35"
+            },
+            "backgroundImage": "assets/background_tondo_bianco_01.png?w=768&h=1240&ar=0.6193548387096774",
+            "id": "65bb8966-97cc-4723-8103-2b2dac1f5aa6"
+          }
+        ],
+        "id": "lettiere_1702310624122",
+        "timing": {
+          "create": "11/12/2023, 17:03:45",
+          "update": "11/12/2023, 17:03:45"
+        }
+      },
+      {
+        "name": "ACCESSORI",
+        "products": [
+          {
+            "name": "ANIONE GIOCHI",
+            "description": "",
+            "price": {
+              "discount": "",
+              "discounted": "20%",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagTopTextColor": "rgba(0, 0, 0, 1)",
+              "priceTagTopBackgroundColor": "rgba(254, 212, 48, 1)"
+            },
+            "subName": "TUTTA LA LINEA",
+            "productImage": "assets/7df7fe67aa5a3c87af853844fd68579d.png?w=300&h=201&ar=1.492537313432836",
+            "available": false,
+            "highlights": [],
+            "unitType": "SCONTO",
+            "categoryId": 13367,
+            "position": 19,
+            "modifier": "wide",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 12:31:12",
+              "update": "12/12/2023, 17:54:02"
+            },
+            "backgroundColor": "rgba(255, 255, 255, 1)",
+            "backgroundImage": "assets/bg_arca_orizontal_back_ok_new_24_bianco.png?w=768&h=486&ar=1.5802469135802468",
+            "id": "65bb8966-d28c-436b-b29d-2ae4ac1f5aa6"
+          },
+          {
+            "name": "PET AROUND YOU TRAIL BORSE E ZAINI",
+            "description": "",
+            "price": {
+              "full": "29,99€",
+              "discount": "15%",
+              "discounted": "25,49€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "textCustom2": "a partire da"
+            },
+            "subName": "TUTTI I TIPI",
+            "productImage": "assets/2d1978a5fae578a234e9939660f4365e.png?w=276&h=300&ar=0.92",
+            "available": false,
+            "highlights": [],
+            "categoryId": 13359,
+            "position": 20,
+            "modifier": "wide",
+            "unitType": " ",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 12:32:20",
+              "update": "12/12/2023, 17:54:09"
+            },
+            "backgroundImage": "assets/bg_arca_orizontal_back_ok_new_24_bianco.png?w=768&h=486&ar=1.5802469135802468",
+            "id": "65bb8967-0568-4c1c-b9be-2be9ac1f5aa6"
+          }
+        ],
+        "id": "accessori_1702310559258",
+        "timing": {
+          "create": "6/12/2023, 13:06:54",
+          "update": "11/12/2023, 17:02:40"
+        }
+      },
+      {
+        "name": "SPECIALE RELAX",
+        "products": [
+          {
+            "name": "YES! CIAMBELLA",
+            "description": "",
+            "price": {
+              "full": " ",
+              "discount": "",
+              "discounted": "19,99€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "priceTagHeight": 50,
+              "discountedPriceColor": "",
+              "priceTagTopTextColor": "",
+              "discountPriceTextColor": "",
+              "discountPriceBackgroundColor": "",
+              "priceTagBackgroundColor": "rgba(0, 0, 0, 1)",
+              "priceTagTextColor": "rgba(255, 255, 255, 1)"
+            },
+            "subName": "CM 70 MIX COLOR",
+            "productImage": "assets/85bb7f8a0505b115102f70fcd27dcb5a.png?w=300&h=200&ar=1.5",
+            "available": false,
+            "highlights": [],
+            "categoryId": 13359,
+            "position": 21,
+            "modifier": "wide",
+            "unitType": "",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 12:34:59",
+              "update": "11/12/2023, 11:44:03"
+            },
+            "id": "65bb8967-d03c-42e1-9d2d-2be2ac1f5aa6"
+          },
+          {
+            "name": "YES! COPERTE TARTAN",
+            "description": "",
+            "price": {
+              "full": "",
+              "discount": "",
+              "discounted": "6,99€",
+              "priceDecimalSeparator": ",",
+              "discountDecimalSeparator": ",",
+              "textCustom2": "",
+              "priceTagBackgroundColor": "rgba(0, 0, 0, 1)",
+              "priceTagTextColor": "rgba(255, 255, 255, 1)"
+            },
+            "subName": "TUTTI I TIPI",
+            "productImage": "assets/fdb88abe76857659e84aab39f16f41c8.png?w=300&h=184&ar=1.6304347826086956",
+            "available": false,
+            "highlights": [],
+            "categoryId": 13359,
+            "position": 22,
+            "modifier": "wide",
+            "unitType": "a partire da",
+            "hideBottomLine": false,
+            "timing": {
+              "create": "6/12/2023, 12:36:15",
+              "update": "6/12/2023, 13:14:23"
+            },
+            "id": "65bb8967-45d8-4f28-a3ea-2ae3ac1f5aa6"
+          }
+        ],
+        "id": "speciale_relax_1702310542002",
+        "backgroundPattern": "assets/Speciale_RELAXvol_sett_bg.jpg?w=768&h=1766&ar=0.434881087202718",
+        "timing": {
+          "create": "6/12/2023, 13:14:01",
+          "update": "11/12/2023, 17:02:23"
+        }
+      },
+      {
+        "id": "1702310513763",
+        "name": "",
+        "products": [
+          {
+            "name": "banner",
+            "type": "image",
+            "tracking": true,
+            "props": {
+              "src": "assets/banner_con_te_ass_per_volantino.jpg?w=768&h=523&ar=1.468451242829828",
+              "modifier": "wide"
+            },
+            "timing": {
+              "create": "11/12/2023, 17:01:32",
+              "update": "11/12/2023, 17:01:32"
+            },
+            "modifier": "wide",
+            "position": 23
+          }
+        ],
+        "timing": {
+          "create": "11/12/2023, 17:01:55",
+          "update": "11/12/2023, 17:01:55"
+        }
+      }
+    ],
+    "stores": [],
+    "frequentSearches": [
+      ""
+    ],
+    "fontSize": [],
+    "fontInfo": [],
+    "retailer": {
+      "centerPriceVertically": false,
+      "name": "Arcaplanet",
+      "cssVars": [],
+      "ctas": [
+        {
+          "label": "Condividi",
+          "icon": "assets/share.svg?w=24&h=24&ar=1",
+          "alternate": false,
+          "action": {
+            "type": "share",
+            "url": "",
+            "text": "Condividi",
+            "title": "Condividi"
+          }
+        },
+        {
+          "label": "Aggiungi a lista",
+          "icon": "assets/shoppinglist_white.svg?w=25&h=24&ar=1.0416666666666667",
+          "action": {
+            "type": "shoppinglist",
+            "url": "",
+            "text": "+ Lista risparmio",
+            "title": "+ Lista risparmio"
+          },
+          "alternate": true,
+          "validity": {
+            "web": false,
+            "mobile": true
+          },
+          "timing": {
+            "create": "12/12/2023, 10:16:35",
+            "update": "12/12/2023, 10:16:35"
+          }
+        }
+      ]
+    },
+    "badges": [
+      {
+        "name": "promo-arcacard",
+        "src": "assets/promo-arcacard.png?w=301&h=301&ar=1",
+        "width": "",
+        "flyoutWidth": "",
+        "transformOrigin": "",
+        "flyoutTransformOrigin": "",
+        "translateX": "",
+        "flyoutTranslateX": "",
+        "translateY": "",
+        "flyoutTranslateY": ""
+      },
+      {
+        "name": "promo-arcacard2-pezzo",
+        "src": "assets/assets",
+        "width": null,
+        "flyoutWidth": null,
+        "transformOrigin": null,
+        "flyoutTransformOrigin": null,
+        "translateX": null,
+        "flyoutTranslateX": null,
+        "translateY": null,
+        "flyoutTranslateY": null
+      }
+    ],
+    "retailerId": 153,
+    "template": "6569fff88aa18e0450051e8f",
+    "templates": [
+      {
+        "_id": "6569fff88aa18e0450051e8f",
+        "name": "arcaplanet tpl 2",
+        "timing": {
+          "create": "1/12/2023, 15:47:04",
+          "update": "1/12/2023, 17:38:16"
+        },
+        "saved": true,
+        "badges": [
+          {
+            "name": "promo-arcacard2-pezzo",
+            "src": "assets/promo_esclusiva_card_new.png?w=300&h=221&ar=1.3574660633484164",
+            "width": "60px",
+            "transformOrigin": "bottom left",
+            "flyoutWidth": "60px",
+            "flyoutTransformOrigin": "bottom left",
+            "top": "-50px",
+            "timing": {
+              "create": "6/12/2023, 17:23:01",
+              "update": "11/12/2023, 16:15:09"
+            }
+          },
+          {
+            "name": "promo-arcacard",
+            "src": "assets/promo_esclusiva_card_new.png?w=300&h=221&ar=1.3574660633484164",
+            "width": "60px",
+            "top": "-50px",
+            "transformOrigin": "bottom left",
+            "flyoutWidth": "60px",
+            "flyoutTransformOrigin": "bottom left",
+            "timing": {
+              "create": "6/12/2023, 17:25:48",
+              "update": "11/12/2023, 16:15:15"
+            }
+          },
+          {
+            "name": "promo-arcacard-wide",
+            "src": "assets/promo_esclusiva_card_new.png?w=300&h=221&ar=1.3574660633484164",
+            "width": "60px",
+            "transformOrigin": "bottom left",
+            "flyoutTransformOrigin": "bottom left",
+            "flyoutWidth": "60px",
+            "timing": {
+              "create": "6/12/2023, 17:27:55",
+              "update": "11/12/2023, 16:15:34"
+            },
+            "left": "-60px",
+            "flyoutLeft": "0px",
+            "flyoutTop": "-50px"
+          }
+        ],
+        "basePath": "https://dg5ko83jkkp0n.cloudfront.net/public/it-prod/template/6569fff88aa18e0450051e8f/",
+        "cssVars": {
+          "withShadows": false,
+          "bodyBackgroundColor": "rgba(255, 214, 0, 1)",
+          "sectionBackgroundColor": "rgba(255, 255, 255, 1)",
+          "sectionHeadingBackgroundColor": "rgba(255, 214, 0, 1)",
+          "sectionHeadingTextColor": "rgba(0, 0, 0, 1)",
+          "headerBackgroundColor": "rgba(255, 214, 0, 1)",
+          "headerTextColor": "",
+          "pillBackgroundColor": "#ffffff",
+          "pillTextColor": "#323232",
+          "activePillBackgroundColor": "rgba(0, 0, 0, 1)",
+          "activePillTextColor": "rgba(255, 255, 255, 1)",
+          "dotColor": "",
+          "activeDotColor": "",
+          "discountedPriceColor": "",
+          "discountedPriceStrokeWidth": "0",
+          "discountedPriceStrokeColor": "",
+          "discountedPriceShadowColor": "#FFFFFF",
+          "priceTagTopBorderColor": "rgba(50, 50, 50, 0)",
+          "priceTagTopTextColor": "rgba(255, 255, 255, 1)",
+          "priceTagTopBackgroundColor": "rgba(0, 0, 0, 1)",
+          "discountPriceTextColor": "rgba(0, 0, 0, 1)",
+          "discountPriceBackgroundColor": "rgba(255, 255, 255, 1)",
+          "phoneTextColor": "",
+          "searchInputBackgroundColor": "",
+          "searchInputTextColor": "",
+          "searchInputCaretColor": "",
+          "colophonBackgroundColor": "rgba(0, 0, 0, 1)",
+          "colophonTextColor": "#ffffff",
+          "productTextColor": "",
+          "productSubTextColor": "",
+          "productBackgroundColor": "rgba(255, 255, 255, 0)",
+          "productBackgroundAlternativeColor": "rgba(255, 255, 255, 0)",
+          "productBackgroundWideColor": "rgba(255, 255, 255, 0)",
+          "navShadowBackgroundColor": "rgba(255, 214, 0, 1)",
+          "flyoutProductNameTextColor": "",
+          "flyoutProductSubNameTextColor": "",
+          "highlightBackgroundColor": "rgba(255, 214, 0, 1)",
+          "highlightTextColor": "#FFFFFF",
+          "collapsibleBlockBackgroundColor": "",
+          "collapsibleBlockTextColor": "",
+          "flyoutHandlerColor": "",
+          "flyoutCloseBackgroundColor": "",
+          "flyoutCloseIconColor": "#323232",
+          "flyoutBackgroundColor": "#ffffff",
+          "pairedProductBackgroundColor": "rgba(255, 255, 255, 0)",
+          "availabilityTextColor": "#00d300",
+          "retailerLocationTextColor": "#ffffff",
+          "flyoutShadowColor": "#999999",
+          "ctaBackgroundColor": "#DBD8D8",
+          "ctaTextColor": "rgba(50, 50, 50, 1)",
+          "alternateCtaBackgroundColor": "rgba(255, 214, 0, 1)",
+          "alternateCtaTextColor": "rgba(0, 0, 0, 1)",
+          "pageSectionTitleTextColor": "rgba(0, 0, 0, 1)",
+          "pageSectionBackIconColor": "#FFF",
+          "pageSectionSearchIconColor": "#FFF",
+          "storeAddressTextColor": "rgba(0, 0, 0, 1)",
+          "storeCityTextColor": "rgba(0, 0, 0, 1)",
+          "storeDistanceTextColor": "rgba(0, 0, 0, 1)",
+          "storeDetailAddressTextColor": "rgba(0, 0, 0, 1)",
+          "storeDetailTitleTextColor": "rgba(0, 0, 0, 1)",
+          "storeOpenBadgeTextColor": "rgba(255, 255, 255, 1)",
+          "storeOpenBadgeBackgroundColor": "rgba(155, 155, 155, 1)",
+          "storeOpenBadgeActiveTextColor": "#FFF",
+          "storeOpenBadgeActiveBackgroundColor": "rgba(65, 117, 5, 1)",
+          "storeDayColor": "rgba(0, 0, 0, 1)",
+          "storeOpeningHoursColor": "rgba(0, 0, 0, 1)",
+          "storeDetailSeparatedLineColor": "#FFF",
+          "priceTagBackgroundColor": "rgba(255, 214, 0, 1)",
+          "priceTagTextColor": "",
+          "priceTagBorderColor": "",
+          "unitTypeTextColor": "",
+          "unitTypeBackgroundColor": "",
+          "discountedCurrencyTextColor": "",
+          "discountedCurrencyBackgroundColor": "",
+          "priceCurrencyTextColor": "",
+          "priceCurrencyBackgroundColor": "",
+          "timing": {
+            "create": "22/9/2022, 12:38:50",
+            "update": "11/12/2023, 17:51:48"
+          }
+        },
+        "fontInfoCssVars": {
+          "pairedProductTextFontSize": "",
+          "pairedProductTextFontWeight": "400",
+          "pairedProductTextFontFamily": "Montserrat-Medium",
+          "pairedProductTextLineHeight": "",
+          "pairedProductTextLetterSpacing": "",
+          "pairedProductTextTextTransform": "",
+          "storeItemFontSize": "",
+          "storeItemFontWeight": "400",
+          "storeItemFontFamily": "Montserrat-Medium",
+          "storeItemLineHeight": "",
+          "storeItemLetterSpacing": "",
+          "storeItemTextTransform": "",
+          "searchSectionTitleFontSize": "",
+          "searchSectionTitleFontWeight": "400",
+          "searchSectionTitleFontFamily": "Montserrat-Medium",
+          "searchSectionTitleLineHeight": "",
+          "searchSectionTitleLetterSpacing": "",
+          "searchSectionTitleTextTransform": "",
+          "suggestionItemFontSize": "",
+          "suggestionItemFontWeight": "400",
+          "suggestionItemFontFamily": "Montserrat-Medium",
+          "suggestionItemLineHeight": "",
+          "suggestionItemLetterSpacing": "",
+          "suggestionTextTransform": "",
+          "searchInputFontSize": "",
+          "searchInputFontWeight": "400",
+          "searchInputFontFamily": "Montserrat-Medium",
+          "searchInputLineHeight": "",
+          "searchInputLetterSpacing": "",
+          "searchInputTextTransform": "",
+          "searchClearFontSize": "",
+          "searchClearFontWeight": "400",
+          "searchClearFontFamily": "Montserrat-Medium",
+          "searchClearLineHeight": "",
+          "searchClearLetterSpacing": "",
+          "searchClearTextTransform": "",
+          "searchDataFontSize": "",
+          "searchDataFontWeight": "400",
+          "searchDataFontFamily": "Montserrat-Medium",
+          "searchDataLineHeight": "",
+          "searchDataLetterSpacing": "",
+          "searchDataTextTransform": "",
+          "retailerLocationFontSize": "",
+          "retailerLocationFontWeight": "400",
+          "retailerLocationFontFamily": "Montserrat-Medium",
+          "retailerLocationLineHeight": "",
+          "retailerLocationLetterSpacing": "",
+          "retailerLocationTextTransform": "",
+          "pillFontSize": "12",
+          "pillFontWeight": "700",
+          "pillFontFamily": "Montserrat-Bold",
+          "pillLineHeight": "",
+          "pillLetterSpacing": "",
+          "pillTextTransform": "",
+          "searchItemFontSize": "",
+          "searchItemFontWeight": "400",
+          "searchItemFontFamily": "Montserrat-Medium",
+          "searchItemLineHeight": "",
+          "searchItemLetterSpacing": "",
+          "searchItemTextTransform": "",
+          "flyoutProductNameFontSize": "20",
+          "flyoutProductNameFontWeight": "700",
+          "flyoutProductNameFontFamily": "Montserrat-Bold",
+          "flyoutProductNameLineHeight": "22px",
+          "flyoutProductNameLetterSpacing": "",
+          "flyoutProductNameReducedFontSize": "18",
+          "flyoutProductNameReducedFontWeight": "700",
+          "flyoutProductNameReducedFontFamily": "Montserrat-Bold",
+          "flyoutProductNameReducedLineHeight": "18px",
+          "flyoutProductNameReducedLetterSpacing": "",
+          "flyoutProductNameReducedTextTransform": "",
+          "flyoutProductSubNameFontSize": "16",
+          "flyoutProductSubNameFontWeight": "400",
+          "flyoutProductSubNameFontFamily": "Montserrat-Medium",
+          "flyoutProductSubNameLineHeight": "",
+          "flyoutProductSubNameLetterSpacing": "",
+          "flyoutProductSubNameReducedFontSize": "",
+          "flyoutProductSubNameReducedFontWeight": "400",
+          "flyoutProductSubNameReducedFontFamily": "Montserrat-Medium",
+          "flyoutProductSubNameReducedLineHeight": "",
+          "flyoutProductSubNameReducedLetterSpacing": "",
+          "flyoutProductSubNameReducedTextTransform": "",
+          "flyoutProductDescriptionFontSize": "16",
+          "flyoutProductDescriptionFontWeight": "400",
+          "flyoutProductDescriptionFontFamily": "Montserrat-Medium",
+          "flyoutProductDescriptionLineHeight": "",
+          "flyoutProductDescriptionLetterSpacing": "",
+          "flyoutProductDescriptionTextTransform": "",
+          "highlightsSmallFontSize": "",
+          "highlightsSmallFontWeight": "",
+          "highlightsSmallFontFamily": "",
+          "highlightsSmallLineHeight": "",
+          "highlightsSmallLetterSpacing": "",
+          "highlightsSmallTextTransform": "",
+          "highlightsFontSize": "",
+          "highlightsFontWeight": "400",
+          "highlightsFontFamily": "Montserrat-Medium",
+          "highlightsLineHeight": "",
+          "highlightsLetterSpacing": "",
+          "highlightsTextTransform": "",
+          "collapsibleBlockHandlerFontSize": "",
+          "collapsibleBlockHandlerFontWeight": "400",
+          "collapsibleBlockHandlerFontFamily": "Montserrat-Medium",
+          "collapsibleBlockHandlerLineHeight": "",
+          "collapsibleBlockHandlerLetterSpacing": "",
+          "collapsibleBlockHandlerTextTransform": "",
+          "ctaFontSize": "14px",
+          "ctaFontWeight": "700",
+          "ctaFontFamily": "Montserrat-bold",
+          "ctaLineHeight": "",
+          "ctaLetterSpacing": "",
+          "ctaTextTransform": "",
+          "discountSmallFontSize": "",
+          "discountSmallFontWeight": "400",
+          "discountSmallFontFamily": "Montserrat-Medium",
+          "discountSmallLineHeight": "",
+          "discountSmallLetterSpacing": "",
+          "discountSmallTextTransform": "",
+          "fullFontSize": "",
+          "fullFontWeight": "400",
+          "fullFontFamily": "Montserrat-Medium",
+          "fullLineHeight": "",
+          "fullLetterSpacing": "",
+          "fullTextTransform": "",
+          "availabilityFontSize": "",
+          "availabilityFontWeight": "400",
+          "availabilityFontFamily": "Montserrat-Medium",
+          "availabilityLineHeight": "",
+          "availabilityLetterSpacing": "",
+          "availabilityTextTransform": "",
+          "blockFontSize": "",
+          "blockFontWeight": "400",
+          "blockFontFamily": "Montserrat-Medium",
+          "blockLineHeight": "",
+          "blockLetterSpacing": "",
+          "blockTextTransform": "",
+          "colophonFontSize": "12px",
+          "colophonFontWeight": "400",
+          "colophonFontFamily": "Montserrat-Medium",
+          "colophonLineHeight": "16px",
+          "colophonLetterSpacing": "",
+          "colophonTextTransform": "",
+          "sectionHeaderFontSize": "19",
+          "sectionHeaderFontWeight": "700",
+          "sectionHeaderFontFamily": "Montserrat-Bold",
+          "sectionHeaderLineHeight": "60px",
+          "sectionHeaderLetterSpacing": "",
+          "sectionHeaderTextTransform": "",
+          "productCellSingleNameFontSize": "13",
+          "productCellSingleNameFontWeight": "700",
+          "productCellSingleNameFontFamily": "Montserrat-Bold",
+          "productCellSingleNameLineHeight": "12px",
+          "productCellSingleNameLetterSpacing": "",
+          "productCellSingleNameTextTransform": "",
+          "productCellWideNameFontSize": "14px",
+          "productCellWideNameFontWeight": "700",
+          "productCellWideNameFontFamily": "Montserrat-Bold",
+          "productCellWideNameLineHeight": "14px",
+          "productCellWideNameLetterSpacing": "",
+          "productCellWideNameTextTransform": "",
+          "productCellSingleSubNameFontSize": "10",
+          "productCellSingleSubNameFontWeight": "400",
+          "productCellSingleSubNameFontFamily": "Montserrat-Medium",
+          "productCellSingleSubNameLineHeight": "10px",
+          "productCellSingleSubNameLetterSpacing": "",
+          "productCellSingleSubNameTextTransform": "",
+          "productCellWideSubNameFontSize": "10",
+          "productCellWideSubNameFontWeight": "400",
+          "productCellWideSubNameFontFamily": "Montserrat-Medium",
+          "productCellWideSubNameLineHeight": "11px",
+          "productCellWideSubNameLetterSpacing": "",
+          "productCellWideSubNameTextTransform": "",
+          "priceTagDiscountedFontSize": "23px",
+          "priceTagDiscountedFontWeight": "400",
+          "priceTagDiscountedFontFamily": "Montserrat-Medium",
+          "priceTagDiscountedLineHeight": "",
+          "priceTagDiscountedLetterSpacing": "",
+          "priceTagDiscountedTextTransform": "",
+          "discountedFontSize": "26px",
+          "discountedFontWeight": "700",
+          "discountedFontFamily": "Montserrat-Bold",
+          "discountedLineHeight": "33px",
+          "discountedLetterSpacing": "",
+          "discountedTextTransform": "",
+          "discountedCurrencyFontSize": "",
+          "discountedCurrencyFontWeight": "400",
+          "discountedCurrencyFontFamily": "Montserrat-Medium",
+          "discountedCurrencyLineHeight": "",
+          "discountedCurrencyLetterSpacing": "",
+          "discountedCurrencyTextTransform": "",
+          "discountFontSize": "12.5px",
+          "discountFontWeight": "700",
+          "discountFontFamily": "Montserrat-Bold",
+          "discountLineHeight": ".75",
+          "discountLetterSpacing": "",
+          "discountTextTransform": "",
+          "priceFontSize": "11.5px",
+          "priceFontWeight": "400",
+          "priceFontFamily": "Montserrat-Medium",
+          "priceLineHeight": "18px",
+          "priceLetterSpacing": "",
+          "priceTextTransform": "",
+          "priceCurrencyFontSize": "",
+          "priceCurrencyFontWeight": "400",
+          "priceCurrencyFontFamily": "Montserrat-Medium",
+          "priceCurrencyLineHeight": "",
+          "priceCurrencyLetterSpacing": "",
+          "priceCurrencyTextTransform": "",
+          "unitTypeFontSize": "7.5px",
+          "unitTypeFontWeight": "400",
+          "unitTypeFontFamily": "Montserrat-Medium",
+          "unitTypeLineHeight": "11px",
+          "unitTypeLetterSpacing": "",
+          "unitTypeTextTransform": "",
+          "discountedSvgFontSize": "",
+          "discountedSvgFontWeight": "",
+          "discountedSvgFontFamily": "",
+          "discountedSvgLineHeight": "",
+          "discountedSvgLetterSpacing": "",
+          "discountedSvgTextTransform": "",
+          "timing": {
+            "create": "22/9/2022, 12:59:55",
+            "update": "12/12/2023, 17:44:15"
+          },
+          "highlightsSmallFontFami": "Montserrat-Medium",
+          "highlightsSmallFontWeig": "400"
+        },
+        "fonts": {
+          "source": "webfont.css",
+          "families": [
+            {
+              "name": "Montserrat-Medium",
+              "source": "fonts/Montserrat-Medium.woff2"
+            },
+            {
+              "name": "Montserrat-Medium",
+              "source": "fonts/Montserrat-Medium.woff"
+            },
+            {
+              "name": "Montserrat-Bold",
+              "source": "fonts/Montserrat-Bold.woff2"
+            },
+            {
+              "name": "Montserrat-Bold",
+              "source": "fonts/Montserrat-Bold.woff"
+            },
+            {
+              "name": "Montserrat-Black",
+              "source": "fonts/Montserrat-Black.woff2"
+            },
+            {
+              "name": "Montserrat-Black",
+              "source": "fonts/Montserrat-Black.woff"
+            },
+            {
+              "name": "GothamRounded",
+              "source": "fonts/GothaRouBoo.woff2"
+            },
+            {
+              "name": "GothamRounded",
+              "source": "fonts/GothaRouBoo.woff"
+            },
+            {
+              "name": "GothamRounded",
+              "source": "fonts/GothaRouBol.woff2"
+            },
+            {
+              "name": "GothamRounded",
+              "source": "fonts/GothaRouBol.woff"
+            }
+          ],
+          "timing": {
+            "create": "22/9/2022, 12:59:40",
+            "update": "1/12/2023, 17:46:01"
+          }
+        },
+        "priceInfo": {
+          "priceTagWidth": 90,
+          "centerPriceVertically": true,
+          "priceDecimalSeparator": ",",
+          "discountDecimalSeparator": ",",
+          "priceTrasform": "scaleX(1) translateX(-40%) translateY(-50%)",
+          "timing": {
+            "create": "22/9/2022, 12:56:29",
+            "update": "6/12/2023, 12:40:26"
+          }
+        },
+        "productInfo": {
+          "iconPlusActive": true,
+          "iconPlusWidth": "50px",
+          "iconPlusHeight": "50px",
+          "iconPlusLevel": 2,
+          "iconPlusImage": "assets/plus-white.png?w=550&h=550&ar=1",
+          "iconPlusPositionX": "50%",
+          "iconPlusPositionY": "50%",
+          "iconPlusAnimationDuration": "0.7s",
+          "iconPlusBlinkTimes": 3,
+          "iconPlusOpacity": "90%",
+          "singleCellHeight": "300",
+          "wideCellHeight": "",
+          "formatPrice": "type34",
+          "bottomSheetSingleMode": false,
+          "timing": {
+            "create": "22/9/2022, 12:55:33",
+            "update": "5/12/2023, 18:49:03"
+          }
+        },
+        "retailerInfo": {
+          "logo": "assets/Arca_new_logo_black_e_white.png?w=500&h=57&ar=8.771929824561404",
+          "icon": "",
+          "favicon": "",
+          "performanceCheckLimit": 300,
+          "timing": {
+            "create": "1/12/2023, 15:47:04",
+            "update": "11/12/2023, 16:13:53"
+          }
+        },
+        "retailerId": 153
+      }
+    ],
+    "templatesComponents": [],
+    "basePath": "https://dg5ko83jkkp0n.cloudfront.net/public/it-prod/153/656f5e41b2c34c26dd674e68/",
+    "saved": true,
+    "numRetrys": 0,
+    "active": true,
+    "jobExecution": {
+      "autoTagged": true
+    },
+    "status": "processed",
+    "id": 1105874,
+    "state": "PROCESSED",
+    "columnsCount": 2,
+    "allowOrphanProducts": false,
+    "name": "",
+    "timing": {
+      "create": "1/2/2024, 12:59:25",
+      "update": "1/2/2024, 15:30:39"
+    },
+    "gbiAssociationId": "65bb895d629046d5b9a87bbc"
+  }
+}
