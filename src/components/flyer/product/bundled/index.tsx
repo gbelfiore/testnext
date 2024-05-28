@@ -58,35 +58,38 @@ const Bundled = ({
 
   const bundleContainerStyle = useMemo(() => {
     return {
-      backgroundColor: productParent?.bundleInfo?.bundleHeaderBackgroundColor || cssVars?.bundleHeaderBackgroundColor || 'black',
+      backgroundColor:
+        productParent?.bundleInfo?.bundleHeaderBackgroundColor || cssVars?.bundleHeaderBackgroundColor || 'black',
       height: ProductBundleUtils.getBundleHeaderHeight(productParent),
     } as React.CSSProperties
   }, [cssVars?.bundleHeaderBackgroundColor, productParent])
 
   const priceBlock = useCallback(
     (isRow = true, height?: number) => {
-
       const bundleSubTextColor = productParent?.bundleInfo?.bundleSubTextColor || cssVars?.bundleSubTextColor || 'white'
       return (
         <div
           style={
             isRow
               ? {
-                height,
-                display: 'flex',
-                flexDirection: 'row',
-                justifyContent: 'space-between',
-                gap: 12,
-              }
+                  height,
+                  display: 'flex',
+                  flexDirection: 'row',
+                  justifyContent: 'space-between',
+                  gap: 12,
+                }
               : {
-                height,
-                display: 'flex',
-                justifyContent: 'flex-end',
-                flexDirection: 'column',
-                textAlign: 'right',
-                alignItems: 'flex-end',
-                backgroundColor: productParent?.bundleInfo?.bundleBackgroundColor || template?.cssVars?.bundleBackgroundColor || cssVars?.bodyBackgroundColor
-              }
+                  height,
+                  display: 'flex',
+                  justifyContent: 'flex-end',
+                  flexDirection: 'column',
+                  textAlign: 'right',
+                  alignItems: 'flex-end',
+                  backgroundColor:
+                    productParent?.bundleInfo?.bundleBackgroundColor ||
+                    template?.cssVars?.bundleBackgroundColor ||
+                    cssVars?.bodyBackgroundColor,
+                }
           }
         >
           {isRow ? (
@@ -105,7 +108,9 @@ const Bundled = ({
                   } as React.CSSProperties
                 }
               >
-                {showOtherInfo && <OtherInfo limitLines={7} description={productParent?.bundleInfo?.otherInfo || ''} padding={0} />}
+                {showOtherInfo && (
+                  <OtherInfo limitLines={7} description={productParent?.bundleInfo?.otherInfo || ''} padding={0} />
+                )}
               </div>
               <div
                 style={{
@@ -115,7 +120,11 @@ const Bundled = ({
                   alignItems: 'flex-end',
                 }}
               >
-                <PriceTag sectionIndex={sectionIndex} productIndex={productIndex} priceTransformOrigin={'bottom right'} />
+                <PriceTag
+                  sectionIndex={sectionIndex}
+                  productIndex={productIndex}
+                  priceTransformOrigin={'bottom right'}
+                />
               </div>
             </>
           ) : (
@@ -131,14 +140,26 @@ const Bundled = ({
                   } as React.CSSProperties
                 }
               >
-                {showOtherInfo && <OtherInfo limitLines={10} description={productParent?.bundleInfo?.otherInfo || ''} padding={0} />}
+                {showOtherInfo && (
+                  <OtherInfo limitLines={10} description={productParent?.bundleInfo?.otherInfo || ''} padding={0} />
+                )}
               </div>
             </>
           )}
         </div>
       )
     },
-    [cssVars?.bodyBackgroundColor, cssVars?.bundleSubTextColor, productIndex, productParent?.bundleInfo?.bundleBackgroundColor, productParent?.bundleInfo?.bundleSubTextColor, productParent?.bundleInfo?.otherInfo, sectionIndex, showOtherInfo, template?.cssVars?.bundleBackgroundColor]
+    [
+      cssVars?.bodyBackgroundColor,
+      cssVars?.bundleSubTextColor,
+      productIndex,
+      productParent?.bundleInfo?.bundleBackgroundColor,
+      productParent?.bundleInfo?.bundleSubTextColor,
+      productParent?.bundleInfo?.otherInfo,
+      sectionIndex,
+      showOtherInfo,
+      template?.cssVars?.bundleBackgroundColor,
+    ]
   )
 
   const productRows = useMemo(() => {
@@ -153,7 +174,11 @@ const Bundled = ({
   return (
     <>
       <div className={classNames(styles.bundleTitleContainer)} style={bundleContainerStyle}>
-        <TextComponent sectionIndex={sectionIndex} color={productParent?.bundleInfo?.bundleHeaderTextColor || cssVars?.bundleHeaderTextColor || 'white'} isSticky={false}>
+        <TextComponent
+          sectionIndex={sectionIndex}
+          color={productParent?.bundleInfo?.bundleHeaderTextColor || cssVars?.bundleHeaderTextColor || 'white'}
+          isSticky={false}
+        >
           {productParent?.name}
         </TextComponent>
       </div>
@@ -161,8 +186,11 @@ const Bundled = ({
         className={styles.bundleProductContent}
         style={{
           flexDirection: 'column',
-          backgroundColor: productParent?.bundleInfo?.bundleBackgroundColor || template?.cssVars?.bundleBackgroundColor || cssVars?.bodyBackgroundColor,
-          padding: VirtualizationConfig.bundledHeights.gap
+          backgroundColor:
+            productParent?.bundleInfo?.bundleBackgroundColor ||
+            template?.cssVars?.bundleBackgroundColor ||
+            cssVars?.bodyBackgroundColor,
+          padding: VirtualizationConfig.bundledHeights.gap,
         }}
       >
         <div
@@ -172,15 +200,16 @@ const Bundled = ({
             borderRadius: 4,
             overflow: 'hidden',
             gridGap: 1,
-            backgroundColor: productParent?.bundleInfo?.bundleProductBorderColor || cssVars?.bundleProductBorderColor || 'white',
+            backgroundColor:
+              productParent?.bundleInfo?.bundleProductBorderColor || cssVars?.bundleProductBorderColor || 'white',
             ...(isVerticalList
               ? {
-                flexDirection: 'column',
-              }
+                  flexDirection: 'column',
+                }
               : {
-                display: 'grid',
-                gridTemplateColumns: `repeat(${columnsCount}, 1fr)`,
-              }),
+                  display: 'grid',
+                  gridTemplateColumns: `repeat(${columnsCount}, 1fr)`,
+                }),
           }}
         >
           {productParent?.bundleProducts?.map((product, index) => {
@@ -203,7 +232,12 @@ const Bundled = ({
             )
           })}
           {!isVerticalList && !productRows.isExactProductRows ? priceBlock(false) : null}
-          {!isVerticalList && !productRows.isOneRow ? <IconPlus size={90} color={productParent?.bundleInfo?.bundleIconPlusColor || cssVars?.bundleIconPlusColor || ICON_PLUS_COLOR} /> : null}
+          {!isVerticalList && !productRows.isOneRow ? (
+            <IconPlus
+              size={90}
+              color={productParent?.bundleInfo?.bundleIconPlusColor || cssVars?.bundleIconPlusColor || ICON_PLUS_COLOR}
+            />
+          ) : null}
         </div>
         {isVerticalList
           ? priceBlock(isVerticalList, ProductBundleUtils.getBundleHeightPriceBlock(true))

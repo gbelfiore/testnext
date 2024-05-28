@@ -5,7 +5,6 @@ import { type ISchemaOpt } from '~/typings/schemaopt'
 import { FlyerHeader } from '../flyer/header'
 import FlyerContainer from '../flyer/FlyerContainer'
 import { getTemplate } from '~/hooks/use-template'
-import { useFormState } from 'react-dom'
 
 interface IFormatAppProps {
   schema: ISchemaOpt
@@ -15,7 +14,6 @@ interface IFormatAppProps {
 
 const FormatApp = ({ schema, urlParams, isBackoffice }: IFormatAppProps) => {
   const template = getTemplate(schema)
-  
 
   return (
     <div className={styles.formartApp} style={{ backgroundColor: template?.cssVars.bodyBackgroundColor }}>
